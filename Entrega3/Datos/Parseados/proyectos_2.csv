@@ -1,0 +1,451 @@
+tipo,nombre,latitud,longitud,region,comuna,fecha apertura,operativo,mineral,tipo generacion,socios
+2,SolarEdge Technologies Inc,-4061124533,-719763994,Metropolitana de Santiago,Padre Hurtado,18-01-2012,si,-,nuclear,Gemma BetolazaMarta Paunero
+2,Azul SA,-383712225,-7254586882,VII del Maule,Curanilahue,08-02-1963,si,-,geotermica,Raul OrtizElena TricioRosario PisabarroCristobal Parra
+1,Franke,-4657220413,-705754899,II de Antofagasta,Calama,09-04-2016,si,Cobre,-,Ahmed BernalAmelia NodalIbon Salguero
+3,AdvisorShares Market Adaptive Unconstrained Income ETF,-1948757504,-7346582409,XI de Aysen del General Carlos Ibanez del Campo,Chile Chico,06-10-1992,si,-,-,Luis Angel MataAlba Maria RodellarEleuterio GordilloLuisa JaramagoPlacido Mejias
+2,Kilroy Realty Corporation,-4598246139,-7180516601,III de Atacama,Huasco,16-09-1962,si,-,geotermica,Victoriano SalazarAicha MecinasAmina CoegoCarmelo Macias
+2,Anheuser-Busch Inbev SA,-5379350998,-6922893626,II de Antofagasta,Antofagasta,23-05-1977,si,-,termoelectrica,Pedro Jose LuqueAna Belen El HayaniAdrian RubioKhadija ContijochLuis Antonio Escribano
+3,Clifton Bancorp Inc,-461348098,-7354064138,V de Valparaiso,Valparaiso,26-02-1952,si,-,-,Maria Guadalupe HammouchPascual GuerraSaturnina De FriasPedro Jose Luque
+1,San Geronimo,-5093885489,-7178372396,IV de Coquimbo,La Higuera,08-10-2018,si,Cobre,-,Norberto GalvanGonzalo NietoMaria Purificacion BuresAbel Mendoza
+1,Elenita,-5148257045,-6973756147,II de Antofagasta,Ollague,16-12-1997,si,Cobre,-,Narciso BallesterMagdalena ChahlalPetra AomarJairo Villa
+1,Catamutun,-3822877545,-7453154567,XIV de Los Rios,Rio Bueno,10-04-2017,si,Carbon,-,Jacinto BermudezLorenza LizundiaJuan Dios Clemente
+3,United States Cellular Corporation,-4684178722,-726409599,IV de Coquimbo,La Serena,05-02-1993,si,-,-,Ali LinaresJuan Bautista ParedesMaria Blanca TarratsHamid Sole
+1,San Jose,-1708866568,-7075499991,III de Atacama,Vallenar,28-05-1982,si,Cobre,-,Maria Jesus AmezuaLuis Francisco CarvajalJesus Martin
+1,Isla Guarello,-4452950651,-7449207624,XII de Magallanes y de la Antartica Chilena,Punta Arenas,28-02-1970,si,Caliza,-,Placido MejiasFrancisco Miguel CastellanoMaria Juana MallorNestor Da Silva
+1,Las Arenitas,-3793703952,-7348497148,VII del Maule,Curanilahue,25-09-1972,si,Arenas Siliceas,-,Lucas ReyMaria Josefa JustesArturo IzquierdoJessica ReinadoJosue Marques
+2,Park-Ohio Holdings Corp,-4185811607,-7268224325,IV de Coquimbo,Monte Patria,12-05-2002,si,-,nuclear,Pere QuintanaBenedicta Gil OrtegaLucio CabezasMaximiliano Amaya
+3,The Community Financial Corporation,-3033028141,-742415504,Metropolitana de Santiago,Isla de Maipo,07-03-1968,si,-,-,Izan JuanElvira Veredas
+2,National American University Holdings Inc,-4482845024,-6971109939,II de Antofagasta,Maria Elena,27-02-1959,si,-,geotermica,Juan Jose BlancoRosa RosinoAlex EspinosaJenifer ValmanaGuillermo Campos
+2,Garrison Capital Inc,-4209990962,-6928519278,II de Antofagasta,Antofagasta,06-09-1955,si,-,nuclear,Mauricio CollMaria Alicia MatacheRosendo DuqueMaria Mercedes Mahedero
+3,Array BioPharma Inc,-348282871,-6965815707,II de Antofagasta,Taltal,22-12-2006,si,-,-,Augusto TenaFlorencia CorchonMaria Purificacion BuresRobert Juarez
+3,Unisys Corporation,-3155130785,-6811280481,I de Tarapaca,Huara,24-04-1976,si,-,-,Izan JuanMaria Cruz MitevaJuan Pedro RoblesBeatriz EscarraJose Javier Silva
+2,PureFunds ETFx HealthTech ETF,-1830750076,-6871016001,II de Antofagasta,Tocopilla,11-09-2016,si,-,solar,Stefan BelloBenita FontanilloMaria Sonia Ferguson
+2,Dynex Capital Inc,-466250247,-7120320602,II de Antofagasta,Calama,01-03-1957,si,-,solar,Jose Rafael SainzValentin Rivas
+3,Walter Investment Management Corp,-5336045872,-7165370501,III de Atacama,Copiapo,03-09-2012,si,-,-,Maria Magdalena TayebiJose Eduardo PineroHelena GabirondoMarcelino Miranda
+2,Avon Products Inc,-4274645755,-7160494713,II de Antofagasta,Tocopilla,16-02-1978,si,-,solar,Juan Manuel GarridoJorge Gil
+2,Clear Channel Outdoor Holdings Inc,-2193420356,-7174937316,V de Valparaiso,Quilpue,26-01-1989,si,-,hidroelectrica,Juan Pedro RoblesAmaya LirianoBelen GosendeRoberto Carlos Pino
+3,EQT Corporation,-244253265,-7177113902,III de Atacama,Vallenar,19-08-1985,si,-,-,Alex EspinosaIrina NoainAbelardo AraujoFelisa SinglaRamon Suarez
+1,SQM - Mapocho,-3196469031,-6929279809,I de Tarapaca,Huara,08-06-1962,si,Yodo,-,Eloy AparicioMaria Jesus AmezuaPelayo PazosEdurne PicaMariano Pascual
+1,Las Cenizas,-3770085343,-7356228633,V de Valparaiso,Concon,23-02-1977,si,Cobre,-,Jose Alberto EstevezMaria Dolors RinaAlexandre AragonMaria Rosa MontalaCesar Arias
+3,Sportsmans Warehouse Holdings Inc,-462616331,-7164164013,III de Atacama,Huasco,30-03-1990,si,-,-,Isidora FaberoLuis Miguel SaezMaria Almudena AnderezArturo Izquierdo
+2,Xenia Hotels & Resorts Inc,-51796099,-7247764133,IV de Coquimbo,La Higuera,20-03-2002,si,-,termoelectrica,Juan Jose BlancoAugusto TenaConsolacion RecousoFidel Puig
+3,Lions Gate Entertainment Corporation,-2710631744,-702652307,III de Atacama,Diego de Almagro,15-10-1994,si,-,-,Angel Luis TrujilloNatividad CarabanoEmilio LeonAngustias LavaraJuan Manuel Garrido
+1,Inacesa - El Jilguero,-1744733374,-7047032369,III de Atacama,Huasco,12-09-1958,si,Caliza,-,Maria Laura ReulaLuis Fernando BallesterosPedro Antonio Miguel
+1,Don Alberto,-3266658139,-7334546353,IV de Coquimbo,Rio Hurtado,11-05-1979,si,Oro,-,Michael BelmonteRaquel CavadasGerman CamachoMaria Amparo AnguixBernardo Vila
+1,Michilla,-2748280116,-7056344947,II de Antofagasta,Mejillones,03-02-1956,si,Cobre,-,Luis Eduardo HervasRosalia IzalAlex EspinosaJoana Ganzo
+3,Marine Petroleum Trust,-3037095291,-6993180455,II de Antofagasta,Ollague,28-04-2019,si,-,-,Maria Antonia NiculescuJose Jesus ChavesElsa PugesArnau Cuesta
+1,Tuina,-4529357894,-6917026643,II de Antofagasta,Maria Elena,13-12-2007,si,Cobre,-,Andreu DomenechSilvia DobrevAndoni LagoCarlos Antonio Salcedo
+1,Intracampos,-4982821022,-7430242654,XII de Magallanes y de la Antartica Chilena,Primavera,16-02-1979,si,Hidrocarburos,-,Candida SchulzeHector SotoMaria Cinta Akhrif
+3,Westpac Banking Corporation,-3150027707,-6955187546,II de Antofagasta,Calama,10-03-1974,si,-,-,Jose Alberto EstevezMaximino SegoviaGeorgina CasatejadaJesus Antonio Herranz
+2,Silicon Laboratories Inc,-388201632,-7050291327,IV de Coquimbo,Salamanca,07-04-2019,si,-,termoelectrica,Joseba PalmaMaria Soledad MaresmaFederico BuenoPatricia BaumannEnric Collado
+2,E*TRADE Financial Corporation,-1769804781,-7047765396,III de Atacama,Vallenar,29-04-1990,si,-,hidroelectrica,Erik ZapataLuciano GalindoCarlota DobraJuan Gabriel Ferrero
+2,Toll Brothers Inc,-2545210144,-7498904326,VII del Maule,Los Alamos,05-06-1950,si,-,nuclear,Enrique MolinaJose Tomas BonetMaria Angela MirazJaime Guerrero
+1,CMP - Boqueron Chanar,-374788188,-7147867599,III de Atacama,Caldera,13-12-1982,si,Hierro,-,Isaias OlmoIrina Noain
+1,Peckett,-3813105043,-7283364805,XII de Magallanes y de la Antartica Chilena,Cabo de Hornos,03-11-1953,si,Carbon,-,Cristian HidalgoPaulino AmadorMaria Julia Marinelarena
+3,SL Green Realty Corporation,-2308275252,-6942137751,I de Tarapaca,Iquique,29-05-1987,si,-,-,Mario GallegoMicaela ErikssonDario SantamariaGema GallentJuan Pedro Robles
+2,Chunghwa Telecom Co Ltd,-1607171874,-7126601916,II de Antofagasta,Taltal,13-11-1959,si,-,nuclear,Ayoub MoyanoNorberto Galvan
+2,Forterra Inc,-4007139215,-708392399,II de Antofagasta,San Pedro de Atacama,16-10-2015,si,-,termoelectrica,Abraham AlbaRita QuilumbaHassan FerreiraMaria Eugenia Corado
+1,Refugio,-3887962997,-7156971803,III de Atacama,Diego de Almagro,14-01-1979,si,Oro,-,Juan Ignacio SimonMyriam LiresRicard CastillaMartina Castanar
+3,China Lodging Group Limited,-3082234614,-6838792591,I de Tarapaca,Huara,21-09-1950,si,-,-,Salud MolloAlex EspinosaMaximino Segovia
+2,International Seaways Inc,-2439457601,-7224669649,XIV de Los Rios,Panguipulli,29-08-2010,si,-,mareomotriz,Antonio Manuel MateoJosefina SerralJose Rafael SainzAbdelaziz Velez
+2,Financial Engines Inc,-4638747254,-7075437214,I de Tarapaca,Camina,18-06-1979,si,-,hidroelectrica,Florin GrauNicolasa CastoGuillermo CamposMaria Beatriz Boutahar
+3,Nuveen Connecticut Quality Municipal Income Fund,-5096642298,-7049199065,III de Atacama,Tierra Amarilla,29-05-1955,si,-,-,Maria Mar ChelaruLola SellersConstantin Andreu
+1,La Coipa,-2759189821,-7120349032,III de Atacama,Diego de Almagro,11-02-1970,si,Oro,-,Ignasi RosalesFlorencia CorchonMaria Magdalena TayebiMarc Aguilar
+1,Dorado,-2839381633,-73986472,XII de Magallanes y de la Antartica Chilena,San Gregorio,15-12-1953,si,Hidrocarburos,-,Inocencio LlorensEstibaliz PozonAziz GarzonMaria Alicia Matache
+2,Mackinac Financial Corporation,-4364479261,-7381374064,IV de Coquimbo,Ovalle,06-11-1988,si,-,solar,Roberto Carlos PinoMaria Cinta AkhrifJose Andres AsensioDolores OyangurenSaul Saiz
+3,Cogentix Medical Inc,-1995010196,-7364662812,Metropolitana de Santiago,Maria Pinto,24-04-1975,si,-,-,Iker PardoIsrael Escudero
+1,Cerro Colorado,-242080116,-6850685053,I de Tarapaca,Pica,14-09-1955,si,Cobre,-,Laia TortellaGorka MartosEmiliana Gil De Gomez
+2,Dynatronics Corporation,-1863187163,-7291612967,VIII del Bio-Bio,Santa Barbara,01-05-1964,si,-,termoelectrica,Aziz GarzonJoaquina Del JesusGuillermo CamposEusebia ReinesJosep Lorenzo
+3,RR Donnelley & Sons Company,-2911125862,-7123158585,II de Antofagasta,Maria Elena,26-04-1966,si,-,-,Maria Paloma HadduEsther ChaosHector Soto
+1,Trongol,-2959632621,-7303948187,VIII del Bio-Bio,Yumbel,21-06-2004,si,Carbon,-,Francisco Asis PortilloAntonio Javier ToledoEsther Chaos
+2,FTI Consulting Inc,-4714991504,-7168093803,IV de Coquimbo,Combarbala,10-12-1996,si,-,geotermica,Armando ValverdeCoral MesbahiAne De JongCecilio Sanchis
+1,Inacesa - El Way,-3529287156,-71086893,II de Antofagasta,Antofagasta,03-09-1974,si,Caliza,-,Laureano BoschBenjamin SalasPaulina DorobantuValentin Rivas
+3,RiverNorth Opportunities Fund Inc,-3126504384,-6884962811,II de Antofagasta,Taltal,21-05-2017,si,-,-,Eulogio GranadosErica CorunaNicolae CarballoJuan Carlos Serrano
+3,AmerisourceBergen Corporation (Holding Co),-5124200404,-7028150702,I de Tarapaca,Colchane,14-06-2004,si,-,-,Marc AguilarAritz CerveraOmar Abad
+2,Evolving Systems Inc,-5214362392,-7216782523,IV de Coquimbo,Andacollo,21-01-1991,si,-,hidroelectrica,Imanol CanteroMaria Juana MallorMaria Gloria InguanzoFelipe Vicente
+2,UMH Properties Inc,-4264166805,-6965466815,II de Antofagasta,San Pedro de Atacama,09-12-1971,si,-,termoelectrica,Adrian RubioRamiro NavasAlfonsa RellosoRuben Medina
+1,Arenal,-1715562623,-7295433214,XII de Magallanes y de la Antartica Chilena,Porvenir,20-04-2013,si,Hidrocarburos,-,Samuel BenitezAmelia NodalLucas Rey
+2,Suncor EnergyInc,-5343772961,-7202622649,III de Atacama,Freirina,18-09-1983,si,-,solar,Maria Valle De La HuergaRafaela MituAlexander Bautista
+2,Elkhorn Commodity Rotation Strategy ETF,-2369506956,-6947807235,I de Tarapaca,Iquique,02-08-1989,si,-,hidroelectrica,Fabio ArizaNoel Paniagua
+1,La Patagua,-2356366992,-7274754506,V de Valparaiso,Juan Fernandez,07-11-1990,si,Cobre,-,Eleuterio GordilloMaria Araceli YuanNatividad Carabano
+2,Terreno Realty Corporation,-5105668234,-6994491088,I de Tarapaca,Colchane,26-11-1995,si,-,termoelectrica,Pere QuintanaPaulina DorobantuMaria Encarnacion BahriAntonio Manuel Mateo
+2,CenterPoint Energy Inc,-2746471657,-7145300923,II de Antofagasta,Mejillones,08-06-1982,si,-,mareomotriz,Miguel DiazMaria Amparo AnguixEzequiel CorreaCristina MacipeCarles Guzman
+2,Enel Generacion Chile SA,-2999809319,-7358981351,V de Valparaiso,Quintero,20-10-1957,si,-,termoelectrica,Valentin RivasIrene HerrmannJuan Antonio OrtegaSagrario HungriaIan Alcantara
+2,Edge Therapeutics Inc,-4271445035,-7047732534,II de Antofagasta,Mejillones,31-03-1967,si,-,mareomotriz,Iker PardoFeliciana BuideAnder CuevasMaria Trinidad LupAmadeo Latorre
+3,Under Armour Inc,-3756572452,-7273158473,III de Atacama,Caldera,25-05-2007,si,-,-,Aurelia FoguetFidel Puig
+1,El Volcan,-3031364111,-734247602,Metropolitana de Santiago,Isla de Maipo,24-03-1960,si,Yeso,-,Estibaliz PozonArnau CuestaMaria Nuria SilioAnselmo Pujol
+1,El Soldado,-2153551614,-7207976852,V de Valparaiso,Quilpue,16-04-2004,si,Cobre,-,Adrian RubioMaria Concepcion Avellana
+2,KT Corporation,-1799072303,-7316470936,Metropolitana de Santiago,Talagante,12-02-1956,si,-,termoelectrica,Alexander BautistaAdelaida GarceteCelso FalconJenifer ValmanaHamza Barrio
+1,ACF - Lagunas,-3313604943,-6934122626,I de Tarapaca,Huara,05-09-1957,si,Yodo,-,John RebolloSandra Maria EsteruelasJose Emilio PovedaCarla GolderosSantiago Santos
+3,First Hawaiian Inc,-3735857076,-7131032115,III de Atacama,Caldera,11-10-1987,si,-,-,Kevin De La FuenteEmma GegundezDiana MatanzaFrancesc Guillen
+3,Randgold Resources Limited,-4817720516,-7338634755,Metropolitana de Santiago,El Monte,30-10-1971,si,-,-,Yago AlfaroSoledad BenimeliAna Maria BartomeuSantiago Santos
+1,III de Atacama Minerals - Aguas Blancas,-4731394603,-7123903468,II de Antofagasta,Sierra Gorda,19-11-1998,si,YodoNitratos,-,Milagros AcuyoAziz Garzon
+2,Urstadt Biddle Properties Inc,-4718797047,-7354860045,VII del Maule,Contulmo,16-07-1994,si,-,solar,Placido MejiasLorena SaadHerminia ZahinoAntonio Jose Franco
+1,Chimberos,-1929980419,-7051275141,III de Atacama,Chanaral,01-01-2016,si,Oro,-,Andoni LagoPetra Aomar
+3,JA Solar Holdings Co Ltd,-3870897824,-6963632309,III de Atacama,Caldera,05-10-2017,si,-,-,Elsa PugesVicent VallesMyriam LiresBartolome Mateos
+1,CMP - Algarrobo,-3007242537,-718258599,III de Atacama,Alto del Carmen,30-05-1995,si,Hierro,-,Jose Eduardo PineroMaria Fernanda VillasusoDiego MoralesMaria Rosario TorrubianoSegundo Marrero
+2,Idera Pharmaceuticals Inc,-2389837221,-6822308586,I de Tarapaca,Pica,07-01-2008,si,-,geotermica,Damian ValleHilario AyalaRegina BlajIonel Agudo
+1,Montecristo,-4276191411,-7115455864,II de Antofagasta,Antofagasta,08-06-1961,si,Cobre,-,Emilio Jose CaroGloria CidreIgnacio PrietoMaria Magdalena Tayebi
+3,Special Opportunities Fund Inc,-2269430514,-7158466488,V de Valparaiso,Quilpue,09-09-1968,si,-,-,Luis Javier CarbonellAnabel Rodriguez PeralManuel Antonio ReinaMatilde LinaceroAmador Soria
+2,AGCO Corporation,-5131250495,-7209715256,III de Atacama,Copiapo,23-04-1963,si,-,nuclear,Josu ArranzPresentacion PereniguezAugusto Tena
+1,Lenga,-1985382799,-741091388,XII de Magallanes y de la Antartica Chilena,Natales,14-07-1980,si,Hidrocarburos,-,Michael BelmonteMaria Fernanda VillasusoIsidoro Pons
+1,Julia,-3042536025,-7020419998,II de Antofagasta,Maria Elena,23-04-1966,si,Cobre,-,Jose Angel CarmonaLorena SaadPol CostaSilvia Dobrev
+2,NextEra Energy Inc,-2920278204,-7396821118,VIII del Bio-Bio,Yumbel,06-04-1971,si,-,geotermica,Lourdes MenguianoJose Miguel DiezFrancisca Caelles
+3,Diamond Hill Investment Group Inc,-4985799239,-7276516535,XII de Magallanes y de la Antartica Chilena,Laguna Blanca,25-04-1999,si,-,-,Octavio TapiaAina Martin DelgadoLaureano BoschManuel Francisco Del Valle
+2,Jazz Pharmaceuticals plc,-2334368456,-7194105884,IV de Coquimbo,Punitaqui,08-12-2004,si,-,mareomotriz,Almudena CanesAnselmo PujolMohamed Caballero
+1,Laguna Siren,-2411799631,-6935044973,I de Tarapaca,Iquique,30-04-1986,si,Diatomitas,-,Gerardo ExpositoPalmira RualesAna Maria BartomeuIsmael Herrero
+2,Universal Stainless & Alloy Products Inc,-4736444382,-7338158073,VII del Maule,Canete,22-01-1958,si,-,termoelectrica,Celso FalconMariam CorronsLuis Manuel LorenteCoral Mesbahi
+1,Alhue,-4128151908,-7289936633,Metropolitana de Santiago,Padre Hurtado,27-04-1977,si,OroCinc,-,Ursula XiaoJoaquim PazRufino Rosa
+2,United Insurance Holdings Corp,-2396324697,-6869023905,I de Tarapaca,Iquique,18-10-2011,si,-,mareomotriz,Saul SaizRosa RosinoInocencio Llorens
+1,Chuquicamata,-2963681473,-6907867499,II de Antofagasta,Taltal,21-12-1963,si,Cobre,-,Pol CostaAzucena Ould MohamedPedro Jose LuqueMinerva PagazaurtunduaIgor Hernando
+1,Maganeso III de Atacama,-3276774456,-7294945547,IV de Coquimbo,Los Vilos,28-02-1954,si,Manganeso,-,Roque Borrego
+1,SCL Chemetall,-4720950153,-7076035423,II de Antofagasta,Maria Elena,15-08-1964,si,Litio,-,Monica HoltEnric ColladoClara NouriOier Romera
+3,Galectin Therapeutics Inc,-5487199607,-7054691361,II de Antofagasta,Taltal,01-03-2017,si,-,-,Joel ContrerasDebora CerronJesus Maria RiveraJose Gonzalez
+3,Yelp Inc,-4311047715,-7003352768,I de Tarapaca,Pica,24-06-1977,si,-,-,Hamid SoleAinara De LuzPascual Guerra
+2,China Mobile (Hong Kong) Ltd,-3231321107,-6975707645,II de Antofagasta,Calama,21-06-1976,si,-,mareomotriz,German CamachoAne De JongJesus Angel LucasAbraham Alba
+1,Pirquitas,-3873928048,-693541644,XV de Arica y Parinacota,Arica,06-04-2000,si,OroPlataCobre,-,Higinio DoradoElizabeth Truchado
+1,Collahuasi,-4376417517,-6946927861,I de Tarapaca,Pica,22-08-2003,si,Cobre,-,Casimiro VergaraCristina Maria VilanaJuan Andres SaavedraGertrudis ZanfirNorberto Galvan
+2,Central Garden & Pet Company,-3300192116,-7380536773,IV de Coquimbo,Los Vilos,27-10-1962,si,-,hidroelectrica,Ascension BratosJon CasasMariam CorronsModesto Polo
+1,Faride,-3049406062,-7009795413,II de Antofagasta,Taltal,07-06-1997,si,Cobre,-,Ernesto ValeroMaria Belen RuesgasSonia GoiburuJuan Ramon Soriano
+1,Maria Elisa,-4667054079,-7297304111,VII del Maule,Contulmo,03-03-1997,si,Pumicita,-,Celso FalconLuisa Maria BandoManuel Jose CardenasMontserrat NoelJaime Guerrero
+3,HollyFrontier Corporation,-3914820194,-7240334635,IV de Coquimbo,Paiguano,22-11-1983,si,-,-,Christian PalaciosLiliana AzonManuel Jose CardenasSegundo Marrero
+3,Recon Technology Ltd,-4159030839,-6917650406,II de Antofagasta,Antofagasta,09-11-1952,si,-,-,Antonio Javier ToledoBasilisa AzamDelia AyudaJose Manuel Alvarez
+3,JM Global Holding Company,-4643036646,-7141331194,II de Antofagasta,Calama,13-02-1957,si,-,-,Bernardo VilaCarlota DobraIker PardoVioleta Atxa
+1,Del Fierro,-4658411776,-7365920956,VII del Maule,Canete,01-08-2003,si,Caliza,-,Diana MatanzaOctavio TapiaAmalia Diaz HellinJorge Gil
+3,Hub Group Inc,-4173703364,-7112153259,II de Antofagasta,Mejillones,02-08-1994,si,-,-,Kevin De La FuenteJana CasafontAngel Luis TrujilloTrinidad AedoAdria Mesa
+1,Manantial,-4537989704,-6954898275,XV de Arica y Parinacota,Camarones,17-11-1957,si,Diatomitas,-,Francisco Javier JimenezLucia PeulaAlfredo IbanezFlora TsvetkovAhmed Bernal
+2,Credit Acceptance Corporation,-3138911698,-6924544403,II de Antofagasta,Taltal,02-06-1965,si,-,termoelectrica,Roberto Carlos PinoMinerva PagazaurtunduaGheorghe QuesadaIris RostollConstantin Andreu
+3,Nuveen AMT-Free Municipal Value Fund,-2233954425,-716613863,III de Atacama,Huasco,18-11-2004,si,-,-,Gustavo Adolfo BritoRachida EvangelioBartolome MateosBenita FontanilloPrimitivo Serna
+2,Mirna Therapeutics Inc,-3444832831,-7348296944,XII de Magallanes y de la Antartica Chilena,Timaukel,23-07-1978,si,-,mareomotriz,Antonio Manuel MateoBasilio RequenaJosefina SerralJose Pablo Saenz
+2,Kura Oncology Inc,-2522791263,-7184278768,VI del Libertador General Bernardo OHiggins,Codegua,26-12-1956,si,-,hidroelectrica,Marcial PintoEdgar LealEsther Chaos
+2,First Trust Senior Loan Fund ETF,-4577912208,-7046570244,XV de Arica y Parinacota,Camarones,13-07-1986,si,-,solar,Victoriano SalazarLuisa JaramagoAntia GradoAlexandru Campo
+3,Ulta Beauty Inc,-2478193519,-6905397424,I de Tarapaca,Pica,04-09-1985,si,-,-,Ali LinaresKarima CoinLeonardo CorralFelisa SinglaRodolfo Becerra
+2,Comcast Corporation,-233210794,-6903344193,I de Tarapaca,Pica,21-01-1999,si,-,geotermica,Brahim OchoaMaite IrunPelayo PazosMiguel Diaz
+1,Los Pelambres,-4232243113,-7180459968,IV de Coquimbo,Monte Patria,19-04-1972,si,Cobre,-,Michael BelmonteMihaela MartyElena TricioImanol Cantero
+1,Algorta,-5310318907,-7005907216,II de Antofagasta,Antofagasta,07-10-1959,si,Yodo,-,Maria Angels Sanchez GilSergi VarelaNestor Da Silva
+3,AbbVie Inc,-4765017997,-6983986866,I de Tarapaca,Colchane,24-01-2009,si,-,-,Mauricio CollNicolae CarballoJessica ReinadoCarlos Manuel Alcaraz
+3,Virco Manufacturing Corporation,-5488657627,-695041496,I de Tarapaca,Alto Hospicio,19-12-1998,si,-,-,Eneko CoboRosario PisabarroJulio PenaPiedad Cabau
+1,Mantos de la Luna,-4282090275,-6976150537,II de Antofagasta,San Pedro de Atacama,04-12-1999,si,Cobre,-,Juan Antonio OrtegaNerea NiembroSaturnino ChenMaria Mercedes MahederoCarlos Ruiz
+2,Fiserv Inc,-4507676689,-718082965,III de Atacama,Diego de Almagro,17-05-1972,si,-,mareomotriz,Urbano PlaMinerva PagazaurtunduaRoberto Carlos PinoMilagros AcuyoAdria Mesa
+1,Quiborax - Ascotan,-2313717068,-6995653874,II de Antofagasta,Antofagasta,29-02-2008,si,Boratos,-,Maria Desamparados LodosJose Manuel AlvarezAlfredo Ibanez
+1,CMP - El Laco,-428435721,-7119728748,II de Antofagasta,Mejillones,29-11-2018,si,Hierro,-,Viorel VivesConsolacion RecousoTeofilo OcanaMaribel CubinoJosu Arranz
+3,Tata Motors Ltd,-282179559,-7150560249,II de Antofagasta,Mejillones,14-10-1991,si,-,-,Josep LorenzoYolanda LecandaChristian PalaciosMarcos Antonio Bartolome
+3,Eaton Vance Corporation,-4785400498,-711090181,II de Antofagasta,Sierra Gorda,18-02-2005,si,-,-,Marcial PintoJuan LopezJuan Maria Ros
+3,Peabody Energy Corporation,-4888509748,-6913073419,I de Tarapaca,Camina,16-07-2017,si,-,-,Josue MarquesMaria Cristina VillartaBruno Del RioJenifer ValmanaFrancisco Jose Cano
+3,Vanguard Russell 3000 ETF,-4969909901,-7285156322,Metropolitana de Santiago,San Pedro,06-12-1994,si,-,-,Benigno CamaraBenita FontanilloCarlos Alberto Villanueva
+3,Voya Global Equity Dividend and Premium Opportunity Fund,-2466738408,-7318711546,V de Valparaiso,Villa Alemana,14-06-1973,si,-,-,Juan Miguel CasadoRogelio ArenasAmanda Mangana
+3,First Trust International Multi-Asset Diversified Income Index,-184703499,-6872721423,II de Antofagasta,Tocopilla,11-12-1994,si,-,-,Igor HernandoMarta PauneroJose Ignacio Crespo
+3,First Trust Nasdaq Retail ETF,-3424063231,-7260813666,IV de Coquimbo,Coquimbo,02-03-1966,si,-,-,Bernardino PalomoTatiana DarasMateo MenendezMaria Laura Reula
+2,Orbotech Ltd,-2731596891,-7096487997,III de Atacama,Diego de Almagro,10-03-1959,si,-,mareomotriz,Jose Carlos DuranMaria Jesus AmezuaRobert JuarezJuan Bautista Paredes
+1,La Perla,-4953720632,-7244283924,Metropolitana de Santiago,San Pedro,08-11-1992,si,Caliza,-,Saturnino ChenMaria Paloma HadduEnric Collado
+2,iShares MSCI EM ESG Optimized ETF,-5041748466,-7136958532,III de Atacama,Alto del Carmen,06-03-1981,si,-,termoelectrica,Urbano PlaAmanda ManganaPedro Antonio MiguelBasilio Requena
+3,PowerShares Golden Dragon China Portfolio,-288698376,-746328144,VIII del Bio-Bio,Yumbel,20-09-2010,si,-,-,Margarita AlecuPedro Pablo CobosDionisia UrrutikoetxeaYeray Bonilla
+3,Texas Capital Bancshares Inc,-1813731948,-7345570689,VIII del Bio-Bio,Santa Barbara,11-06-1964,si,-,-,Hector SotoLydia SacedoJosefina Serral
+1,Mantos Blancos,-461401754,-7039165648,II de Antofagasta,Ollague,13-09-2016,si,Cobre,-,Anselmo PujolMaria Elisa BoletHipolito MorilloAgustina RodaoFelix Fuentes
+1,Choquelimpie,-3796750025,-6952267617,XV de Arica y Parinacota,Arica,24-09-1985,si,Oro,-,Moises MarcosMihaela MartyMohamed CaballeroErik Zapata
+2,Novelion Therapeutics Inc,-2466135957,-7179570962,III de Atacama,Vallenar,01-11-2000,si,-,hidroelectrica,Avelino OjedaMaite IrunAlberto RamirezMaria Rocio EscoberoNil Catalan
+3,Double Eagle Acquisition Corp,-4570169924,-7252887097,III de Atacama,Diego de Almagro,16-11-2005,si,-,-,Andoni LagoMaria Jesus AmezuaJuan Ignacio SimonCristina MacipeBenigno Camara
+2,Celgene Corporation,-3202967643,-7226932097,III de Atacama,Tierra Amarilla,25-10-2014,si,-,geotermica,Pablo Jose FigueroaNaiara PastoraPedro Pablo CobosIngrid Bonamusa
+1,El Tesoro,-3462424827,-7077212716,II de Antofagasta,Maria Elena,27-09-1959,si,Cobre,-,Gerard GraciaObdulia AlcelayLeopoldo PorrasSalvadora MundetEnrique Molina
+1,Altamira,-530118099,-7074491312,II de Antofagasta,Ollague,20-09-1952,si,Cobre,-,Jose Francisco VelascoMaria Esperanza San LuisAyoub MoyanoAna Cristina Conill
+1,El Salvador,-2695566592,-7062948214,III de Atacama,Copiapo,30-11-2011,si,Cobre,-,Manuel RodriguezFabiola DumbravaYago AlfaroMaria Nieves LalanaPedro Pablo Cobos
+2,Container Store (The),-3406870467,-692587778,II de Antofagasta,Sierra Gorda,04-09-1997,si,-,hidroelectrica,Coral MesbahiOmar AbadCelestino Oliver
+3,Royal Caribbean Cruises Ltd,-4136405867,-7288275487,Metropolitana de Santiago,Padre Hurtado,10-10-2018,si,-,-,Luis Eduardo HervasJesusa EstadesVidal TejeroJuan Miguel Casado
+1,Sierra Miranda,-1705555729,-7125546485,II de Antofagasta,Taltal,17-07-1980,si,Cobre,-,Inaki BlazquezAinara De LuzJose Juan SalvadorConcepcion CristaldoJosue Marques
+1,El Morro,-2374250416,-725780991,III de Atacama,Vallenar,18-11-1988,si,CobreOro,-,Fabio ArizaMaria Pilar Lopez CozarEvaristo OlivaresJose Miguel Diez
+1,Pucobre,-4180840469,-7092042281,III de Atacama,Alto del Carmen,31-12-1966,si,Cobre,-,Encarna AlzinaAbraham AlbaAgueda El BaroudiJan Pelaez
+2,Corporate Asset Backed Corp CABCO,-4720766107,-6938848421,I de Tarapaca,Colchane,02-02-1973,si,-,solar,Ismael HerreroEloy AparicioArnau Cuesta
+3,SeaChange International Inc,-208146013,-7343119955,XII de Magallanes y de la Antartica Chilena,Natales,29-01-1953,si,-,-,Primitivo SernaSacramento AndreaLuis Alberto PadillaArantxa CanellesAleix Burgos
+2,Entercom Communications Corporation,-4390538222,-6793186104,I de Tarapaca,Alto Hospicio,22-06-2006,si,-,mareomotriz,Rosa RosinoMarta Maria ArilloManuel Francisco Del Valle
+1,La Marcelina,-4504730088,-686226631,XV de Arica y Parinacota,General Lagos,27-05-1955,si,CobreSilicioDiamante,-,Jose Maria NavarroCarlota DobraAntonio Jose FrancoJuan David Dos Santos
+1,Gabriela Mistral,-3131565918,-7012268731,II de Antofagasta,Calama,09-10-2006,si,Cobre,-,Jonatan CondeFatima OsleAntonio Jesus RedondoAna Cristina ConillJose Luis Perez
+2,Arch Capital Group Ltd,-3103868479,-6942270489,II de Antofagasta,Ollague,01-05-1980,si,-,hidroelectrica,Marino LlamasManuela SanteCarlos RuizCarlota DobraAlonso Rodrigo
+1,Antucoya,-348080603,-6973821998,II de Antofagasta,Sierra Gorda,09-09-1961,si,Cobre,-,Bautista NogueraRosa Maria CousidoRaul OrtizMaria Laura ReulaUnai Galvez
+1,Carola,-2241636966,-7269038964,III de Atacama,Huasco,29-11-1976,si,Cobre,-,Marcelo PereaErnesto ValeroInocencia RenesJose Maria Navarro
+2,PowerShares KBW High Dividend Yield Financial Portfolio,-3514139984,-7235758798,IV de Coquimbo,Illapel,07-07-2003,si,-,nuclear,Benigno CamaraAlexia MerelloHamza BarrioAimar Espejo
+1,Spence,-4648103337,-7046400352,II de Antofagasta,Calama,03-01-1989,si,Cobre,-,Mariano PascualSandra Maria EsteruelasPrimitivo Serna
+1,Cerro Blanco,-2454405253,-7211803136,Metropolitana de Santiago,Curacavi,24-02-1953,si,Caliza,-,Pau SierraElsa PugesJesus Miguel Valenzuela
+1,Haldeman - Sagasca,-1788031716,-7002811716,I de Tarapaca,Pozo Almonte,23-06-1977,si,Cobre,-,Robert JuarezEzequiel CorreaPastora AlmeriaNoel Paniagua
+1,Victoria,-4880221815,-7295778926,VIII del Bio-Bio,Alto Biobio,12-10-2014,si,Carbon,-,Nestor Da SilvaAvelina LavianaRodrigo MerinoEusebia Reines
+2,LB Foster Company,-3882480482,-7158608915,III de Atacama,Diego de Almagro,09-05-1992,si,-,solar,Vasile OrdonezConsuelo LamraniClemente VelaEstrella DunabeitiaLucas Rey
+3,Regal Entertainment Group,-4671477133,-7179620512,II de Antofagasta,Ollague,20-08-2004,si,-,-,Alberto Jose ZambranoIsidora FaberoMateo MenendezYago Alfaro
+1,Celite - Tana,-2366594089,-6843100801,I de Tarapaca,Iquique,11-06-1997,si,Diatomitas,-,Eloy AparicioMaria Piedad CabeoIsmael HerreroMalika CuchareroOriol Jurado
+2,iPath US Treasury Long Bond Bear ETN,-4035185122,-7280959953,V de Valparaiso,Casablanca,31-08-2009,si,-,solar,Anastasio BarbaAriadna DjaloAquilino GuijarroMonica Holt
+2,Cambrex Corporation,-4712542695,-7206503108,II de Antofagasta,Sierra Gorda,15-12-1960,si,-,hidroelectrica,Juan Diego SalgadoMaria Soledad MaresmaMarcial PintoFabian Solis
+2,Pure Cycle Corporation,-3714424689,-7254907999,XII de Magallanes y de la Antartica Chilena,Cabo de Hornos,19-05-1991,si,-,termoelectrica,Nadia De La HazaJose Alejandro HerasAnna Maria Tristante
+1,Ojos del Salado,-2735831322,-7208958712,III de Atacama,Chanaral,12-12-1997,si,Cobre,-,Gregorio RomanMaria Purificacion BuresBernardo VilaJesusa EstadesVictor Manuel Pastor
+1,Caupolican,-3453425139,-7413740142,XII de Magallanes y de la Antartica Chilena,Timaukel,26-04-1961,si,Hidrocarburos,-,Iluminada BonnetAlfonsa RellosoLuis Eduardo Hervas
+3,EPR Properties,-4318864931,-7099239316,I de Tarapaca,Pica,11-05-1960,si,-,-,Stefan BelloIbai GamezCristina Maria VilanaDario Santamaria
+2,First Trust Emerging Markets Small Cap AlphaDEX Fund,-3053557678,-7102260317,III de Atacama,Alto del Carmen,22-09-2003,si,-,termoelectrica,Valeriano RinconSarai CeladorFidel PuigMaria Antonia NiculescuSeverino Huerta
+3,Aircastle Limited,-4656347763,-6872332298,XV de Arica y Parinacota,General Lagos,24-05-2013,si,-,-,Jeronimo HurtadoMaria Piedad CabeoTeodoro LazaroManuel Alejandro Peinado
+1,Esperanza,-4538971199,-6986726192,II de Antofagasta,Mejillones,20-12-1979,si,Cobre,-,Christian PalaciosFerran MarcoMaite IrunAntonio Garcia
+2,BLDRS Asia 50 ADR Index Fund,-3116445081,-6837160087,I de Tarapaca,Huara,09-01-2018,si,-,solar,Carlos Manuel AlcarazMaria Estrella ZuherosGheorghe Quesada
+3,Western Asset Bond Fund,-2674654065,-7042299346,III de Atacama,Chanaral,18-03-2001,si,-,-,Eulogio GranadosEulalia AlianoJon Casas
+2,Forum Merger Corporation,-3294742502,-7376307958,VI del Libertador General Bernardo OHiggins,Rancagua,29-06-1957,si,-,mareomotriz,Francisco Borja ToroGemma BetolazaJulia Maria Ruiz De ArcauteLuis Miguel Saez
+3,Nuveen Michigan Quality Municipal Income Fund,-5009388595,-6848847426,I de Tarapaca,Pozo Almonte,04-12-1982,si,-,-,Eleuterio GordilloMaria Elvira VildaHiginio DoradoSalud MolloYeray Bonilla
+2,Discovery Communications Inc,-5365404297,-7326718516,VIII del Bio-Bio,Tucapel,30-01-1985,si,-,solar,Jose Fernando CarreraAnna MaricaJose Angel CarmonaMarina ButraguenoJose Enrique Manzano
+3,Drive Shack Inc,-5133607506,-7189800211,IV de Coquimbo,La Higuera,23-11-1952,si,-,-,Josep Maria AcostaMartina CastanarGerardo ExpositoCovadonga MaravillaMamadou Solano
+3,Mid-America Apartment Communities Inc,-538656465,-7279450762,VIII del Bio-Bio,Tucapel,18-12-1974,si,-,-,Jose Pablo SaenzJeronimo Hurtado
+3,STMicroelectronics NV,-4390888808,-744424349,VIII del Bio-Bio,San Rosendo,02-12-1982,si,-,-,Gorka MartosJosefa SensoAntonio Miguel RieraLaila PeyroMichael Belmonte
+2,RenaissanceRe Holdings Ltd,-2407761632,-7352356648,V de Valparaiso,Juan Fernandez,24-06-1968,si,-,nuclear,Fuensanta CallisPrimitivo SernaJairo Villa
+2,LTC Properties Inc,-5129783946,-7150237003,III de Atacama,Freirina,16-06-2018,si,-,mareomotriz,Antonia Maria LeachAbraham AlbaAnastasio Barba
+1,El Guindo,-5043770014,-7362178091,Metropolitana de Santiago,Alhue,29-09-1975,si,Caolin,-,Luis Francisco CarvajalSusana MuntadasLuis Manuel LorenteBernardino Palomo
+1,Cerro Bayo,-2172358876,-7386217581,XI de Aysen del General Carlos Ibanez del Campo,Rio Ibanez,05-11-2016,si,Oro,-,Francisco Luis PuenteAnna MaricaMohamed CaballeroJose Maria Navarro
+2,Kite Realty Group Trust,-4695808708,-7109731439,II de Antofagasta,Maria Elena,29-04-2014,si,-,geotermica,Khalid QuinteroMaria Aranzazu WojcikJordi Vidal
+3,XO Group Inc,-2492641372,-7263476081,XII de Magallanes y de la Antartica Chilena,Rio Verde,22-01-2014,si,-,-,Catalina BowenAlvaro CastroGema Maria MolinaresAndoni Lago
+1,SQM Salar,-4190476211,-7140707744,II de Antofagasta,Tocopilla,16-06-2002,si,Litio,-,Aurelio RicoGema GallentVictor Jose De Miguel
+1,El Abra,-4912840071,-6906715874,II de Antofagasta,Mejillones,25-10-1970,si,Cobre,-,Maximiliano AmayaMaria Encarnacion BahriMarkel Pizarro
+3,Destination XL Group Inc,-5184366508,-7145974926,III de Atacama,Copiapo,27-11-1982,si,-,-,Roger AvilaMarcela OrtegonFrancisco Jesus BlascoMaria Cinta Akhrif
+1,Escondida,-4025595432,-711296847,II de Antofagasta,San Pedro de Atacama,13-08-2018,si,Cobre,-,Manuela SanteJose Pablo Saenz
+2,BLDRS Developed Markets 100 ADR Index Fund,-1896674942,-7266627876,XI de Aysen del General Carlos Ibanez del Campo,Chile Chico,29-06-1978,si,-,termoelectrica,Juan Jesus CalderonNatalia LancisGabriel VegaAnna Maria Tristante
+1,Navio,-2902393516,-7358812257,V de Valparaiso,Quintero,07-07-1957,si,Cal,-,Roberto Carlos PinoGloria CidreDomingo SantanaLola SellersJose Felix Cerezo
+3,Franklin Financial Network Inc,-3683268638,-7112683534,II de Antofagasta,Sierra Gorda,13-10-1984,si,-,-,Adan FriasLourdes MenguianoCasimiro VergaraPol Costa
+1,Condor,-4593308769,-7027512236,XV de Arica y Parinacota,Putre,16-12-1987,si,Boratos,-,Maria Nuria SilioGregorio RomanGabriela ChulianAquilino Guijarro
+1,Punta de Lobos - Kanita,-487080749,-6902837929,I de Tarapaca,Camina,24-08-1978,si,Sal,-,Juan David Dos SantosOlivia HeranceJose Joaquin BarreraMaria Merce Vias
+2,Kamada Ltd,-2685917867,-7127095578,III de Atacama,Chanaral,05-05-1998,si,-,termoelectrica,Juan David Dos SantosAnastasia CristofolFelix FuentesLaura GolanJose Antonio Sanchez
+1,Marte Lobo,-5073155899,-7152095482,III de Atacama,Copiapo,26-06-2010,si,Oro,-,Luisa Maria BandoModesto PoloMaria Dolors RinaJose Vicente Galan
+1,El Toqui,-1889524832,-736547943,XI de Aysen del General Carlos Ibanez del Campo,Chile Chico,20-02-1961,si,CincOroPlata,-,Anna Maria TristanteJuan Pablo RuedaOtilia SambolaLuis Maria Mena
+3,Cowen Inc,-2650692326,-6923982757,III de Atacama,Copiapo,26-11-2000,si,-,-,Ezequiel CorreaBelen GosendePeter Olmedo
+3,Nutanix Inc,-2275120305,-7371128663,XI de Aysen del General Carlos Ibanez del Campo,Rio Ibanez,03-08-1954,si,-,-,Omar AbadBelen GosendeEulogio GranadosMaria Remedios CabarrocasAdam Carrion
+3,Janus Henderson Small Cap Growth Alpha ETF,-186558614,-7075718455,II de Antofagasta,Calama,02-12-1981,si,-,-,Luis Francisco CarvajalJoel ContrerasFelicitas FermoselEmiliano Oliva
+1,Chimborazo,-5034084038,-6996995666,II de Antofagasta,Ollague,07-04-2001,si,Cobre,-,Marcos HerreraEugenia OchovoAntonio Manuel MateoRemedios CatonKevin De La Fuente
+1,Cerro Casale,-5405804052,-7216371161,III de Atacama,Copiapo,27-06-1984,si,Oro,-,Julio PenaElena Maria AmargantJose Alejandro HerasMaximo Rojo
+3,China Cord Blood Corporation,-2455756186,-7409087615,VII del Maule,Los Alamos,20-10-1968,si,-,-,Dario SantamariaJana CasafontMaria Juana Mallor
+2,Novanta Inc,-1825662271,-6948914967,I de Tarapaca,Pozo Almonte,15-08-1958,si,-,nuclear,Maria Angustias El HamdiAntonio Luis VelazquezJusta Seglar
+1,CMP - Los Colorados,-298906932,-7236810449,III de Atacama,Chanaral,21-08-2015,si,Hierro,-,Mamadou SolanoPeter OlmedoSonia Maria CarcasLazaro Egea
+2,US Energy Corp,-3723816728,-7443611003,XIV de Los Rios,Rio Bueno,05-02-2001,si,-,hidroelectrica,Pedro Antonio MiguelJaume ArroyoMaria Jose PanizaRoman Castano
+2,NVIDIA Corporation,-4258984705,-7193645833,VII del Maule,Tirua,11-01-1996,si,-,mareomotriz,Lara SalonMariano PascualMarcela OrtegonMarkel Pizarro
+3,Argos Therapeutics Inc,-3643390516,-6929986234,II de Antofagasta,Calama,16-07-1990,si,-,-,Nicolas GimenezMaria Milagros MiracleMalika CuchareroCarlos Antonio Salcedo
+2,Guaranty Bancorp,-4575448464,-7064443925,XV de Arica y Parinacota,Putre,31-05-1964,si,-,geotermica,Vicent VallesLeyre PlagaroJose Alberto EstevezFrancisca Caelles
+3,Inseego Corp,-4118509248,-708563711,III de Atacama,Alto del Carmen,26-07-1990,si,-,-,Hicham CuadradoMercedes MijeDriss ValdesLeyre PlagaroAbelardo Araujo
+2,Peapack-Gladstone Financial Corporation,-2816579053,-7453948987,XII de Magallanes y de la Antartica Chilena,San Gregorio,07-07-1957,si,-,hidroelectrica,Francesc Xavier PinedaLuna GarmillaDario SantamariaElisa CiruelaAritz Cervera
+2,German American Bancorp Inc,-3482987584,-7210349722,IV de Coquimbo,Coquimbo,06-01-1989,si,-,mareomotriz,Juan Alberto SalaClaudia MurianoJoaquim PazHortensia LainaGenaro Andrade
+1,La Picarda,-467411032,-7000575467,I de Tarapaca,Camina,05-04-2013,si,Diatomitas,-,Robert JuarezMaria Luisa GaraizabalHiginio DoradoFilomena El Mahi
+3,Apple Hospitality REIT Inc,-5281944746,-7019279546,II de Antofagasta,Antofagasta,26-02-1951,si,-,-,Juan Ramon SorianoMaria Desamparados LodosJoseba PalmaLuz Marina ArdaoGorka Martos
+3,TC PipeLines LP,-2332492091,-6826543116,I de Tarapaca,Iquique,04-02-1951,si,-,-,Alejandro RomeroMauro PeraltaHamza Barrio
+2,Nustar GP Holdings LLC,-2046904993,-7409165819,Metropolitana de Santiago,Maria Pinto,28-12-1982,si,-,mareomotriz,Rufino RosaDolors CasqueiroJose Angel Carmona
+1,Cosayach - Cala Cala,-446798846,-6882300689,I de Tarapaca,Alto Hospicio,28-03-2014,si,YodoNitratos,-,Rodolfo BecerraMaria Vicenta BorjabadMaria Angela MirazPablo Jose Figueroa
+3,Georgia Power Company,-4273855109,-7085971668,II de Antofagasta,Tocopilla,13-06-1984,si,-,-,Emilio Jose CaroAndrea CurtisJose Ramon CarrascoHipolito Morillo
+2,PowerShares BuyBack Achievers Portfolio,-3174765126,-7325186772,IV de Coquimbo,Rio Hurtado,29-02-1984,si,-,hidroelectrica,Estela DarkaouiAbelardo AraujoMaria Concepcion Avellana
+3,Costamare Inc,-4642174025,-7418435217,VII del Maule,Canete,13-09-1969,si,-,-,Francisca CaellesAntonio Maria LafuenteMaria Desamparados LodosAntonio Jesus Redondo
+2,Gilat Satellite Networks Ltd,-4578367424,-7538032149,XII de Magallanes y de la Antartica Chilena,Antartica,11-05-1955,si,-,solar,Maximino SegoviaSilvia DobrevCarme HompaneraChristian Palacios
+2,The9 Limited,-5554343624,-6983053791,I de Tarapaca,Alto Hospicio,20-11-1961,si,-,hidroelectrica,Justo LunaMaria Celia ArisaJuan Angel PineiroMaria Isabel GassetJuan Alberto Sala
+3,Taiwan Fund Inc (The),-4808224171,-7304903485,VII del Maule,Contulmo,08-12-2002,si,-,-,Federico BuenoMaria Salud LibanoMaria Milagros Miracle
+3,Entegra Financial Corp,-4087226832,-7221115048,IV de Coquimbo,Monte Patria,01-09-1976,si,-,-,Gheorghe QuesadaVictorina AranzadiGregorio RomanMaria Fernanda VillasusoManel Cid
+3,Torchmark Corporation,-2997956124,-7196526653,III de Atacama,Alto del Carmen,07-06-1963,si,-,-,Celestino OliverAbderrahim RuanoMaria Consolacion VillagarciaJulen Cordoba
+3,SAP SE,-2459414909,-7268571232,V de Valparaiso,Juan Fernandez,21-03-2003,si,-,-,Marcial PintoAraceli RegodonDamian ValleMaria Estrella ZuherosJose Emilio Poveda
+2,Appliance Recycling Centers of America Inc,-5280292319,-6987682299,II de Antofagasta,Ollague,25-03-1980,si,-,hidroelectrica,Julia Maria Ruiz De ArcauteRicardo CruzAngelina MogioGheorghe Quesada
+1,Punitaqui,-4321815285,-7307526943,IV de Coquimbo,Ovalle,29-02-1976,si,Cobre,-,Vicente DelgadoCarmen Rosa Acereda
+1,Schwager,-4539717876,-7382516204,VIII del Bio-Bio,San Rosendo,02-09-1992,si,Carbon,-,Feliciana BuideJose Miguel DiezAna Maria BartomeuBilal Jorge
+3,Old Republic International Corporation,-4373148185,-6937467027,I de Tarapaca,Alto Hospicio,21-04-1973,si,-,-,Juan Luis SolerEncarna AlzinaIzan JuanAgueda El BaroudiMarius Fraile
+3,Cleveland BioLabs Inc,-3931051311,-7078321928,II de Antofagasta,San Pedro de Atacama,11-11-1979,si,-,-,Aitor VargasMaria Lourdes SotodososJesica Masvidal
+1,Pampa Camarones,-4502954045,-6847397968,XV de Arica y Parinacota,General Lagos,22-02-2005,si,Cobre,-,Antonio Javier ToledoGuillermina CenozNoelia FoncillasPatricio Miralles
+1,Bronce de Petorca,-4676871429,-734125935,V de Valparaiso,Valparaiso,14-08-1979,si,Oro,-,Samuel BenitezSaturnina De FriasJose Pablo SaenzTeresa Jesus PosadoPascual Guerra
+3,Gabelli Equity Trust Inc (The),-2909239262,-7452918534,XII de Magallanes y de la Antartica Chilena,San Gregorio,03-06-1960,si,-,-,Carlos Manuel AlcarazEncarna AlzinaSantiago SantosRamona UrregoMarcelino Miranda
+1,Cerro Negro,-5347278162,-7354103596,V de Valparaiso,Puchuncavi,02-12-1975,si,Cobre,-,Severino HuertaEmilio Jose CaroJoaquim Paz
+1,Andacollo Cobre,-3537694761,-7153827676,IV de Coquimbo,Illapel,25-07-1951,si,Cobre,-,Maria Aurora CalotaVictor CortesZaira PrunedaGines Ponce
+2,Meridian Waste Solutions Inc,-4556787716,-6774744981,XV de Arica y Parinacota,General Lagos,21-10-1979,si,-,nuclear,Evaristo OlivaresPilar BedialaunetaMarco Antonio TomasClara NouriJose Angel Carmona
+2,Kayne Anderson Energy Total Return Fund Inc,-2357398446,-7200715791,Metropolitana de Santiago,Curacavi,22-11-1979,si,-,nuclear,Eugenio RojasMariam CorronsAugusto TenaJoaquim Paz
+2,Limoneira Co,-2241457701,-6934907021,II de Antofagasta,Antofagasta,23-11-2002,si,-,termoelectrica,Alan MeleroIgnasi RosalesMaria Piedad Cabeo
+2,First Financial Bankshares Inc,-4940819843,-7344452398,XII de Magallanes y de la Antartica Chilena,Primavera,06-02-1969,si,-,nuclear,Luis Miguel SaezEstrella DunabeitiaJoseba PalmaMaria Rocio Escobero
+2,Cyclacel Pharmaceuticals Inc,-5406178027,-7036594979,II de Antofagasta,Taltal,20-07-2017,si,-,nuclear,Lucio CabezasErika Trasmonte
+3,Crawford & Company,-5416098596,-7344295806,IV de Coquimbo,Vicuna,16-08-2005,si,-,-,Vidal TejeroMireia AlocenRoque BorregoSandra Maria EsteruelasAntonio Javier Toledo
+3,Delcath Systems Inc,-3917132517,-7207184672,III de Atacama,Diego de Almagro,04-03-1969,si,-,-,Valentina MinonesMarius FraileAlexia MerelloLucas Rey
+2,Ashford Hospitality Prime Inc,-45841688,-7424113967,V de Valparaiso,Valparaiso,27-05-1969,si,-,termoelectrica,Jose Joaquin BarreraKhadija ContijochIker PardoMaria Pilar Lopez Cozar
+2,Rush Enterprises Inc,-3049560682,-7322249931,III de Atacama,Chanaral,21-11-1957,si,-,nuclear,John RebolloIdoia HadiJoana GanzoSalvador Calvo
+3,GlaxoSmithKline PLC,-1847051602,-7013306378,III de Atacama,Chanaral,23-09-1952,si,-,-,Paulino AmadorLeopoldo PorrasSofia PortesJose Alfonso Mateu
+3,Great Plains Energy Inc,-3339907535,-736965027,VI del Libertador General Bernardo OHiggins,Rancagua,07-08-1959,si,-,-,Jon CasasRamona UrregoLeonardo CorralJuan Vicente Calero
+2,Urban One Inc ,-226316032,-6988975164,II de Antofagasta,Sierra Gorda,21-11-1999,si,-,geotermica,Maximiliano AmayaAinhoa AumenteMaria Beatriz BoutaharVicente Delgado
+3,Bed Bath & Beyond Inc,-3041079413,-7228140068,III de Atacama,Chanaral,17-11-1982,si,-,-,Lara SalonCandida SchulzeGabriel Vega
+3,PIMCO Dynamic Credit and Mortgage Income Fund,-4415489593,-7361271333,IV de Coquimbo,Ovalle,19-03-1980,si,-,-,Luis Miguel SaezLucia PeulaGregorio RomanDavinia Linaje
+2,Apollo Senior Floating Rate Fund Inc,-3720283556,-7369478663,V de Valparaiso,Concon,25-06-2006,si,-,geotermica,Santos BermejoBienvenida MiteConstantin AndreuMaria Gracia BellvisAli Linares
+1,Caserones,-3116089173,-7089554656,III de Atacama,Tierra Amarilla,11-12-1981,si,Cobre,-,Francisco Manuel VeraMariana NarbonModesto PoloAurelia FoguetValeriano Rincon
+1,Linderos,-5410836128,-7254131209,IV de Coquimbo,Vicuna,15-11-1980,si,Cobre,-,Baldomero CebrianOlivia HeranceJuan Fernando PenaCarolina CidonAurelio Rico
+1,Andacollo Oro,-3940655928,-7312322375,IV de Coquimbo,Canela,15-07-1975,si,Oro,-,Sergio RamosEngracia TolosEric AguileraCarla GolderosFidel Puig
+2,Carvana Co,-3063543452,-6832490076,II de Antofagasta,Taltal,16-12-2015,si,-,nuclear,Unai GalvezLeire CrusatYanira Sanchez ReyJose Pablo Saenz
+3,Northern Trust Corporation,-3329786746,-720236178,II de Antofagasta,Sierra Gorda,22-01-1979,si,-,-,Palmira RualesCarlos Antonio SalcedoMaria Montserrat LiqueteIonel Agudo
+1,Celite - Tilviche,-4748083996,-6978816034,I de Tarapaca,Camina,04-09-1965,si,Diatomitas,-,Ana Isabel ManzanaRodrigo MerinoMirian Cernat
+1,El Teniente,-3210812979,-7410672937,VI del Libertador General Bernardo OHiggins,Rancagua,12-01-1989,si,Cobre,-,Juana CosiallsJulen Cordoba
+3,Neff Corporation,-4549644381,-7614144442,XII de Magallanes y de la Antartica Chilena,Antartica,11-12-1973,si,-,-,Julen CordobaBelen GosendeJoaquina Del JesusMuhammad Arevalo
+2,VictoryShares US 500 Enhanced Volatility Wtd ETF,-2972839455,-7102219486,II de Antofagasta,Maria Elena,27-09-1970,si,-,hidroelectrica,Mauro PeraltaVisitacion De La PridaIvan SanzMaria Angels Sanchez GilJuan Alberto Sala
+1,Flor de Los Andes,-4675384618,-7152360501,IV de Coquimbo,Combarbala,25-07-1954,si,Lapislazuli,-,Marcos HerreraSilvia Maria CamunaIgnacia AmellerChristian Palacios
+1,Isla Riesco,-4553392116,-7480555265,XII de Magallanes y de la Antartica Chilena,Antartica,13-08-2000,si,Carbon,-,Alexandre AragonLeyre PlagaroJuan Diego SalgadoLuis Fernando Ballesteros
+3,First Trust South Korea AlphaDEX Fund,-247683369,-718845958,VI del Libertador General Bernardo OHiggins,Codegua,12-11-1991,si,-,-,Feliciana BuideSaid MaldonadoAmanda ManganaCesar Arias
+3,PDF Solutions Inc,-4517052541,-6998027157,XV de Arica y Parinacota,Putre,28-02-1979,si,-,-,Noel PaniaguaAntia GradoJose Jesus ChavesFernanda SusarteIsmael Herrero
+2,Cabot Corporation,-4182457563,-7004926654,III de Atacama,Alto del Carmen,29-09-1996,si,-,nuclear,Blas AlarconMarti Aguado
+2,Data Processing,-4759593324,-7236669104,III de Atacama,Vallenar,27-07-1974,si,-,geotermica,Juan Ramon SorianoFlorentina Rebenaque
+1,Ivan,-3811993762,-7060047994,II de Antofagasta,Sierra Gorda,22-02-1980,si,Cobre,-,Adan FriasJuan Enrique RealMaria Elvira VildaFrancisco Miguel Castellano
+1,Cosayach - Negreiros,-5089317516,-6980606347,I de Tarapaca,Colchane,16-05-1979,si,YodoNitratos,-,Julia Maria Ruiz De ArcauteGabriel VegaMaria Natividad Bardallo
+1,Delta,-3854033002,-7139594038,IV de Coquimbo,Salamanca,07-01-1990,si,Cobre,-,Aaron BenitoFeliciana BuideBienvenido NavarreteMarcelina CapelladesPedro Munoz
+2,Silvercrest Asset Management Group Inc,-5164844751,-7030809486,II de Antofagasta,Ollague,15-07-1950,si,-,geotermica,Adrian RubioConcepcion CristaldoFeliciano VillegasJudit DilmeJose Eduardo Pinero
+1,Tres Valles,-2283237098,-7219113554,IV de Coquimbo,Punitaqui,14-10-1998,si,Cobre,-,Youssef AguirreAnna Maria TristanteJan PelaezAlfonsa Relloso
+3,Enanta Pharmaceuticals Inc,-2929631515,-7379609293,V de Valparaiso,Quintero,06-06-1976,si,-,-,Miguel DiazHelena GabirondoMarcel AnguloRoque Borrego
+3,Safe Bulkers Inc,-4675649659,-696195718,II de Antofagasta,Mejillones,23-03-1975,si,-,-,Mario GallegoInmaculada Concepcion GruberRoberto Carlos PinoHilario Ayala
+1,Pascua,-4584541746,-7250348538,III de Atacama,Huasco,29-04-1996,si,Oro,-,Miguel Angel GutierrezCandela Ruiz HermosaEvaristo OlivaresMaria Lourdes SotodososFrancisco Luis Puente
+2,Biglari Holdings Inc,-2051543241,-7421582041,XII de Magallanes y de la Antartica Chilena,Natales,07-07-1965,si,-,hidroelectrica,Samuel BenitezMaria Aurora CalotaRamon SuarezPatrocinio MontecinosUrbano Pla
+3,Gray Television Inc,-5106075258,-7425340939,Metropolitana de Santiago,Alhue,06-10-2004,si,-,-,Jose Domingo RoyoJesus Javier FreirePrimitivo Serna
+3,CatchMark Timber Trust Inc,-3344505908,-7221041226,II de Antofagasta,Antofagasta,20-08-1990,si,-,-,Fermin BeltranAinara De LuzJuan Jose BlancoMaria Encarnacion BahriEnric Collado
+1,Las Piedras,-4310144946,-7268829782,VII del Maule,Tirua,17-11-1982,si,Cuarzo,-,Maria Elisa BoletBienvenido NavarreteCarlos Antonio Salcedo
+2,Western New England Bancorp Inc,-3766461088,-7062854518,II de Antofagasta,Sierra Gorda,18-02-1999,si,-,geotermica,Angel Luis TrujilloGemma BetolazaPedro Antonio Miguel
+3,Shutterstock Inc,-2378497286,-7187950768,Metropolitana de Santiago,Curacavi,28-11-1986,si,-,-,Carles GuzmanAriadna DjaloAitor VargasMaria Jose Paniza
+2,FSB Bancorp Inc,-2397880405,-7325941333,XII de Magallanes y de la Antartica Chilena,Rio Verde,18-05-1970,si,-,mareomotriz,Julio Cesar VallejoRuth CanoraEsmeralda SamperizEmilio Leon
+1,SQM - Pedro de Valdivia,-4257570453,-6951443977,II de Antofagasta,Antofagasta,23-06-1992,si,Yodo,-,Jose Ignacio CrespoGeorgina CasatejadaBlas AlarconAngeles ManeruJesus Angel Lucas
+2,United Microelectronics Corporation,-3430260501,-7207558777,II de Antofagasta,Antofagasta,21-08-1966,si,-,nuclear,Carmelo MaciasOtilia SambolaDavid MartinezSofia PortesCasimiro Vergara
+3,Adams Diversified Equity Fund Inc,-2361028685,-7234481198,XIV de Los Rios,Panguipulli,22-04-1960,si,-,-,Jose Rafael SainzAnabel Rodriguez PeralGabriela ChulianAlex Espinosa
+1,Tranquilo,-5113728473,-7303610548,XII de Magallanes y de la Antartica Chilena,Laguna Blanca,14-03-2019,si,Hidrocarburos,-,Andres NunezJose Vicente GalanEugenia OchovoEloy Aparicio
+1,Guanaco,-2265293536,-7066180792,II de Antofagasta,Sierra Gorda,12-06-2008,si,Oro,-,Markel PizarroMaria Encarnacion BahriValeriano RinconMariona SoraMario Gallego
+2,PowerShares Nasdaq Internet Portfolio,-3058149323,-6853531036,I de Tarapaca,Huara,21-01-1966,si,-,solar,Bautista NogueraEnrique MolinaOlatz AlgaraYago Alfaro
+1,Lota,-1796384615,-7333109039,VIII del Bio-Bio,Santa Barbara,13-12-2002,si,Carbon,-,Maria Antonia NiculescuVicente Jose MosqueraJesus Javier Freire
+2,Diageo plc,-3890344507,-6846931075,XV de Arica y Parinacota,Arica,26-11-2015,si,-,termoelectrica,Mariano PascualValeria ArnayJose Manuel AlvarezMarcelino Miranda
+1,El Tofo,-4626421645,-721887842,IV de Coquimbo,La Serena,23-04-2016,si,Hierro,-,Alvaro CastroVirginia CrehuetJeronimo HurtadoJacinta MitreaLucas Rey
+2,Fair Isaac Corporation,-1905572733,-701235245,I de Tarapaca,Pozo Almonte,08-04-1952,si,-,nuclear,Jose Fernando CarreraJosefa Maria MongayFrancisco Borja Toro
+2,PTC Inc,-4392126064,-7025055601,I de Tarapaca,Pica,30-04-1994,si,-,nuclear,Roger AvilaElena Maria AmargantSaida AngueiraUnai Galvez
+3,EI du Pont de Nemours and Company,-5258694562,-6953267975,II de Antofagasta,Ollague,12-02-1986,si,-,-,Carlos Antonio SalcedoAna Maria BartomeuHerminio GodoyEmiliana Gil De GomezImanol Cantero
+2,Stampscom Inc,-3214490051,-7002574064,III de Atacama,Tierra Amarilla,01-11-1982,si,-,geotermica,Pedro Jose LuqueNatividad CarabanoGuillem CorderoMarcelina CapelladesCarlos Ruiz
+3,Vina Concha Y Toro,-4230241952,-724703344,VII del Maule,Tirua,21-03-2010,si,-,-,Camilo VenturaSara De Los BueisDamian ValleRoque Borrego
+3,Tootsie Roll Industries Inc,-297891032,-6888677317,II de Antofagasta,San Pedro de Atacama,02-12-1971,si,-,-,Fulgencio BarraganAngelica FurundarenaPedro MunozPedro Maria Sola
+1,Manto Verde,-371680669,-7199358865,III de Atacama,Caldera,15-02-1967,si,Cobre,-,Jose Emilio PovedaMercedes MijeMohammed CarrilloMaria Angustias El HamdiAlonso Rodrigo
+2,Ellie Mae Inc,-4602318735,-7231154556,IV de Coquimbo,La Serena,25-09-2001,si,-,nuclear,Marcos Antonio BartolomeTrinidad AedoJorge Juan GrandeAndreu Domenech
+3,The Chefs Warehouse Inc,-5031195952,-7041277162,II de Antofagasta,Ollague,13-05-2010,si,-,-,Yaiza MotoPedro Luis PozoClaudia MurianoJose Felix Cerezo
+1,Quiborax,-454454804,-6966660029,XV de Arica y Parinacota,Putre,04-01-1976,si,Boratos,-,Pedro Javier SastreMaria Angela MirazRuth CanoraXavier Gallardo
+3,India Fund Inc (The),-1704318272,-7471887529,XII de Magallanes y de la Antartica Chilena,Porvenir,27-02-1986,si,-,-,Ibon SalgueroAnna MaricaAmina CoegoBrais Estrada
+3,Gladstone Commercial Corporation,-5547742963,-7028823355,I de Tarapaca,Alto Hospicio,10-03-2010,si,-,-,Francesc Xavier PinedaMaider JuanicoJose Alberto EstevezAna Maria BartomeuDidac Gonzalo
+2,Check-Cap Ltd,-1952616206,-6996478385,II de Antofagasta,Calama,20-09-1960,si,-,mareomotriz,Eusebio ArandaLucia Peula
+2,Investors Bancorp Inc,-5083989176,-7362680698,Metropolitana de Santiago,Alhue,22-04-1976,si,-,geotermica,Venancio AvilesJose Ramon CarrascoNagore MerelasJuan Diego Salgado
+2,MasTec Inc,-2398766982,-7231728235,II de Antofagasta,Tocopilla,06-01-1977,si,-,mareomotriz,Julen CordobaMaria Alicia MatacheUnai GalvezGenaro Andrade
+1,Las Pataguas,-2574654418,-7232445062,VI del Libertador General Bernardo OHiggins,Codegua,25-04-1957,si,Pumicita,-,Maximo RojoIdoia HadiIsaias Olmo
+1,Las Luces,-5392453577,-7107589986,II de Antofagasta,Taltal,21-12-1974,si,Cobre,-,Amadeo LatorreMalika CuchareroClaudio DomingoMaria Cruz MitevaFernando Jose Recio
+3,DRDGOLD Limited,-4689029091,-7091828549,IV de Coquimbo,Combarbala,26-06-2018,si,-,-,Lara SalonVirgilio ChamorroAngel Maria Baena
+2,Johnson & Johnson,-3124773185,-7337599763,Metropolitana de Santiago,Isla de Maipo,29-01-1965,si,-,geotermica,Alexandre AragonEulalia AlianoJose Manuel AlvarezMaite Irun
+1,Cosayach - Soledad,-224076122,-6904604462,I de Tarapaca,Iquique,21-04-2009,si,Yodo,-,Jorge Juan GrandeAitana RosalenyFabian SolisIsidora FaberoAziz Garzon
+2,Nuveen Municipal High Income Opportunity Fund,-3889603639,-7287012397,IV de Coquimbo,Paiguano,18-10-1962,si,-,solar,Raimundo BarriosClara NouriJose Gabriel MorcilloPaula GuazaErnesto Valero
+3,Herman Miller Inc,-2271390651,-7005634205,II de Antofagasta,Sierra Gorda,03-12-1957,si,-,-,Josu ArranzGemma BetolazaFeliciano VillegasInes Maria RevolloMiguel Angel Gutierrez
+1,III de Atacama Kozan,-4694661338,-721569849,III de Atacama,Vallenar,20-08-1959,si,Cobre,-,Francisco Manuel VeraMaria Blanca TarratsDemetrio NicolasMeritxell BacoLluis Plaza
+3,Fidus Investment Corporation,-4546401685,-7092528827,I de Tarapaca,Camina,29-06-1952,si,-,-,Manuel Jose CardenasSaray GiolLeonardo CorralTeresa Jesus PosadoBartolome Mateos
+2,Portola Pharmaceuticals Inc,-2194825924,-7405111571,XI de Aysen del General Carlos Ibanez del Campo,Rio Ibanez,29-01-1952,si,-,solar,Matilde LinaceroKhalid QuinteroGloria CidrePedro Jose Luque
+3,Great Elm Capital Corp,-4691888967,-6886531922,I de Tarapaca,Colchane,23-06-2001,si,-,-,Constantin AndreuMaria Teresa VerdiaLuis Miguel SaezNoemi ArdoySantiago Santos
+1,Cordillera - Tenardita,-4784204942,-6903536409,I de Tarapaca,Colchane,23-10-1966,si,Sal,-,Candido EscobarEdgar LealMarina ButraguenoEvaristo Olivares
+2,Avenue Therapeutics Inc,-4936704952,-6943572153,II de Antofagasta,Mejillones,01-05-2006,si,-,solar,Feliciano VillegasMaria Blanca TarratsAbelardo Araujo
+1,Pullalli,-4015613517,-7348525548,V de Valparaiso,Casablanca,16-09-1982,si,Oro,-,German CamachoInocencia RenesErnesto ValeroSaray GiolJose Rafael Sainz
+1,Los Bronces,-2063235417,-7330770741,Metropolitana de Santiago,Maria Pinto,28-04-2010,si,Cobre,-,Nuria LazcozSergio RamosMalika CuchareroFelix Fuentes
+2,Pepsico Inc,-4460997938,-748371451,XII de Magallanes y de la Antartica Chilena,Punta Arenas,01-04-2016,si,-,geotermica,Bilal JorgeBerta UngriaJuan Dios Clemente
+1,Candelaria,-5071227996,-7128340564,III de Atacama,Freirina,24-10-1956,si,Cobre,-,Enric ColladoMaria Olga De CaceresFlorencio MillanVicenta LascuRufino Rosa
+3,West Corporation,-3360469188,-740102517,IV de Coquimbo,Los Vilos,25-11-2004,si,-,-,Brais EstradaSofia PortesClotilde OyagaJesus Antonio Herranz
+1,Pupunahue,-2524011737,-7281762993,XIV de Los Rios,Panguipulli,16-06-1979,si,Carbon,-,Vidal TejeroEstibaliz PozonDemetrio NicolasFrancesc Xavier Pineda
+3,Dollar General Corporation,-4538138189,-7064325644,II de Antofagasta,Maria Elena,13-11-2012,si,-,-,Cesar AriasBasilisa AzamMaria Angela MirazViorel Vives
+2,Bright Scholar Education Holdings Limited,-3229399007,-6903379064,I de Tarapaca,Huara,24-05-1988,si,-,geotermica,Luis Miguel SaezAlfonsa RellosoAntonio Jesus RedondoSalud MolloJuan Pedro Robles
+2,Zynerba Pharmaceuticals Inc,-4627776541,-6997186244,II de Antofagasta,Mejillones,29-06-1968,si,-,solar,Xabier MontoyaEsther ChaosDenis ArceEulalia AlianoJusto Luna
+1,CMP - Romeral,-3548098221,-711905625,IV de Coquimbo,Coquimbo,10-07-1954,si,Hierro,-,Alberto RamirezAida EsparragoJose Javier SilvaPilar BedialaunetaGonzalo Nieto
+1,Pinatolca,-260446954,-7404301221,VII del Maule,Los Alamos,18-04-1951,si,Arenas Siliceas,-,Nestor Da SilvaAranzazu DiaconescuRuben MedinaMaximo Rojo
+3,Cohen & Steers Reit and Preferred Income Fund Inc,-2351683606,-7225654139,IV de Coquimbo,Punitaqui,08-05-1969,si,-,-,Olatz AlgaraManuel RodriguezMaialen Bauset
+3,BOS Better Online Solutions,-1580399679,-7097515952,II de Antofagasta,Taltal,12-08-1962,si,-,-,Adrian RubioIdoia HadiGregoria UgarteburuFerran Marco
+3,Hamilton Lane Incorporated,-4766448994,-7342405483,VIII del Bio-Bio,Alto Biobio,23-03-1950,si,-,-,Andres NunezMagdalena ChahlalNicolas GimenezAscension BratosVictor Jose De Miguel
+2,ENGlobal Corporation,-4598702795,-7143452191,II de Antofagasta,Calama,12-02-1952,si,-,mareomotriz,Juan David Dos SantosGabriel VegaSamira ArabaolazaPedro Pablo Cobos
+2,Incyte Corporation,-3830897238,-718913141,III de Atacama,Caldera,24-12-2002,si,-,solar,Roger AvilaRosana CimarraJan PelaezFatima OsleElias Serra
+2,Westbury Bancorp Inc,-2306057125,-7179959903,III de Atacama,Huasco,14-12-2014,si,-,hidroelectrica,Mamadou SolanoAina Martin DelgadoRaul OrtizTamara ValldeperasIsaias Olmo
+3,HD Supply Holdings Inc,-4887088641,-6969011616,II de Antofagasta,Mejillones,07-01-2000,si,-,-,Antonio Manuel MateoSoraya RubinosJosu ArranzCandela Ruiz HermosaPatricio Miralles
+3,BRF SA,-1740821544,-7388095802,Metropolitana de Santiago,Talagante,04-08-1951,si,-,-,Yeray BonillaMaria Josefa JustesAntoni RocaFelisa SinglaAitor Vargas
+1,Zaldivar,-3373365319,-7020110685,II de Antofagasta,Taltal,19-09-1958,si,Cobre,-,Amadeo LatorreBrais EstradaMelchor Lobato
+3,Aspen Technology Inc,-2155807674,-684005989,II de Antofagasta,Antofagasta,04-03-2014,si,-,-,Florencio MillanVictoria AkdiMohammed CarrilloNerea NiembroFlorencio Millan
+2,Entergy Louisiana Inc,-2616436623,-7002406051,III de Atacama,Copiapo,19-04-2016,si,-,termoelectrica,Vidal TejeroPastora AlmeriaIsmael HerreroSalma ReAlexandre Aragon
+2,Independence Holding Company,-3939264851,-7093554426,II de Antofagasta,San Pedro de Atacama,12-06-1987,si,-,nuclear,Teofilo OcanaAicha MecinasJesus Antonio HerranzAdelina LefterFermin Beltran
+2,Midland States Bancorp Inc,-3433874333,-7015395928,II de Antofagasta,Taltal,10-01-1998,si,-,termoelectrica,Luis Angel MataPelayo Pazos
+3,Patriot National Bancorp Inc,-5341162037,-6957491598,II de Antofagasta,Tocopilla,11-11-1974,si,-,-,Jairo VillaMaria Antonia NiculescuJaime GuerreroMaria Julia Marinelarena
+1,Talcuna,-3866487599,-7303103802,IV de Coquimbo,Paiguano,19-08-1961,si,Cobre,-,Jonatan CondeAurora CastellotElizabeth TruchadoMarc Aguilar
+3,Blackhawk Network Holdings Inc,-4502246855,-7549329275,XII de Magallanes y de la Antartica Chilena,Punta Arenas,02-08-1978,si,-,-,Fernando Jose RecioClotilde OyagaGuillem Cordero
+3,Natl Westminster Pfd,-3651659763,-7305176744,XII de Magallanes y de la Antartica Chilena,Cabo de Hornos,21-12-1963,si,-,-,Xavier GallardoGloria Maria CabalganteAntonio Miguel RieraPaulina DorobantuIsaias Olmo
+3,AMC Entertainment Holdings Inc,-3215450946,-7167009816,III de Atacama,Tierra Amarilla,17-10-2001,si,-,-,Nicolas GimenezJosep Maria Acosta
+3,Salesforcecom Inc,-4980974272,-7315258443,XII de Magallanes y de la Antartica Chilena,Primavera,03-08-1976,si,-,-,Hugo MoraSandra Maria EsteruelasAlfredo IbanezConstantin Andreu
+2,Ocular Therapeutix Inc,-1820712344,-7024368891,III de Atacama,Huasco,30-06-1972,si,-,geotermica,Juan Miguel CasadoEdurne PicaPedro Manuel Roig
+2,Hawkins Inc,-1895193054,-7032171306,III de Atacama,Chanaral,06-10-1987,si,-,nuclear,Pedro Miguel RoviraJesus Miguel ValenzuelaLeticia LalwaniHicham Cuadrado
+1,Colico Sur,-5294103,-7393599634,VIII del Bio-Bio,Tucapel,28-11-1987,si,Carbon,-,Abdellah CasanovaAntonio Francisco MadridAdela BarberiaJose Luis Perez
+1,El Penon,-2407753673,-7166921793,II de Antofagasta,Tocopilla,06-07-1994,si,Oro,-,Driss ValdesMarco De La TorreDolores OyangurenIsidoro Pons
+2,CoreSite Realty Corporation,-1762297702,-7380370682,XII de Magallanes y de la Antartica Chilena,Porvenir,23-06-1963,si,-,geotermica,Agustin FloresVeronica RaelJuan Alberto SalaMaria Mar ChelaruBartolome Mateos
+2,Western Alliance Bancorporation,-4643216631,-7049138637,II de Antofagasta,Mejillones,29-09-1993,si,-,solar,Juan Vicente CaleroTamara ValldeperasEdgar LealMaria Reyes PareAntonio Maria Lafuente
+2,Alliance National Municipal Income Fund Inc,-4906597315,-681586654,I de Tarapaca,Camina,09-11-1967,si,-,termoelectrica,Xabier MontoyaTomasa BaucellsArnau CuestaRachida Evangelio
+2,iShares 20+ Year Treasury Bond ETF,-5114222733,-7051192856,III de Atacama,Tierra Amarilla,10-05-1990,si,-,hidroelectrica,Josep LorenzoAgueda El BaroudiPau SierraHelena GabirondoPedro Manuel Roig
+3,Envision Healthcare Corporation,-3225602205,-7370938746,IV de Coquimbo,Rio Hurtado,19-11-1974,si,-,-,Marc AguilarMiriam ZorrozuaJose Ignacio CrespoMerce AlabortLuciano Galindo
+1,SQM - Pampa Blanca,-5476566051,-7009450066,II de Antofagasta,Tocopilla,11-10-1996,si,Yodo,-,Lucas ReyErica CorunaLucas ReyInes Maria RevolloJose Eduardo Pinero
+1,Lomas Bayas,-4093401642,-7091297411,II de Antofagasta,San Pedro de Atacama,06-05-1954,si,Cobre,-,Agustin FloresMaria Sol AndronachePatricio MirallesPablo Jose Figueroa
+3,FairPoint Communications Inc,-5134889643,-717560449,IV de Coquimbo,Andacollo,30-12-1992,si,-,-,Fabian SolisAmelia NodalYanira Sanchez ReyAquilino Guijarro
+3,Arlington Asset Investment Corp,-521926009,-7002288822,II de Antofagasta,Ollague,25-08-1997,si,-,-,Mercedes MijeJose Andres AsensioSandra Maria EsteruelasAmador Soria
+1,Andina,-2432664962,-7357833754,V de Valparaiso,Villa Alemana,22-07-1961,si,Cobre,-,Camilo VenturaMiren ZuriarrainModesto PoloAntonia VillamananFerran Marco
+1,Celite - Carol,-4599004483,-6984882794,XV de Arica y Parinacota,Camarones,22-05-2001,si,Diatomitas,-,Christian PalaciosMaria Consolacion VillagarciaUnai GalvezIrene Herrmann
+3,Tekla Healthcare Opportunies Fund,-3262408895,-697066942,III de Atacama,Tierra Amarilla,28-12-2008,si,-,-,Guillem CorderoCarlos Alberto Villanueva
+2,American Homes 4 Rent,-3660213838,-6967858338,II de Antofagasta,Calama,12-09-1963,si,-,solar,Luis Enrique MunizRoser BayotFermin BeltranMelania YudegoModesto Polo
+2,supportcom Inc,-4305898659,-6861561527,I de Tarapaca,Alto Hospicio,01-11-2000,si,-,mareomotriz,Luis Javier CarbonellMaria Jesus AmezuaMaria Azucena HamidoDavid Martinez
+3,Nuveen Floating Rate Income Fund,-1675485413,-7116848181,III de Atacama,Vallenar,12-07-1966,si,-,-,Yago AlfaroYago AlfaroAna Cristina Conill
+2,Hurco Companies Inc,-5375776763,-7128707576,III de Atacama,Copiapo,03-01-2001,si,-,termoelectrica,Hamid SoleRosa Ana HernansaizAleix BurgosMaria Rosa MontalaSaturnino Chen
+3,Littelfuse Inc,-385166006,-7130822182,IV de Coquimbo,Salamanca,05-12-1969,si,-,-,Ariadna DjaloRogelio ArenasMarius Fraile
+2,Kraton Corporation,-4675479779,-7115166944,II de Antofagasta,Ollague,19-06-1989,si,-,hidroelectrica,Hipolito MorilloMarta Maria ArilloMonserrat KanouteUrbano Pla
+2,Applied D0 Sciences Inc,-3991924724,-7330630723,IV de Coquimbo,Canela,08-12-1963,si,-,mareomotriz,Marcial PintoRosa Ana HernansaizCarlos Antonio Salcedo
+2,Blackstone GSO Long Short Credit Income Fund,-5359601847,-7448174488,V de Valparaiso,Puchuncavi,27-01-1984,si,-,mareomotriz,Jose Manuel AlvarezAvelina LavianaRufina IsoBilal Jorge
+3,Chegg Inc,-4036010157,-7297417772,V de Valparaiso,Casablanca,04-01-2015,si,-,-,Omar AbadEstefania MonisAitor VargasJudit DilmeJose Fernando Carrera
+3,Vectrus Inc,-4970049363,-6828510012,I de Tarapaca,Camina,19-09-1958,si,-,-,Salma ReManuel Jesus AndresMaria Mar ChelaruMarcel Angulo
+2,Yahoo! Inc,-5086661529,-7095263054,II de Antofagasta,Ollague,11-01-1961,si,-,geotermica,Gorka MartosMicaela ErikssonJulio PenaCandida SchulzeGabriel Vega
+3,CVS Health Corporation,-5066032276,-6903531431,I de Tarapaca,Pozo Almonte,08-08-1960,si,-,-,Benedicta Gil OrtegaAurelio RicoSilvia Dobrev
+3,Commerce Bancshares Inc,-4776020288,-7015008743,II de Antofagasta,Maria Elena,20-04-2016,si,-,-,Nicolas GimenezMaria Dolors RinaIzan JuanJusto Luna
+3,Sarepta Therapeutics Inc,-2927055799,-7038725328,III de Atacama,Freirina,07-01-1976,si,-,-,Biel DuarteSheila BatalleSaturnino ChenPol Costa
+1,Romeral,-1770796623,-7370450394,Metropolitana de Santiago,Talagante,18-05-1973,si,Yeso,-,Higinio DoradoFlora TsvetkovIris RostollOliver Moral
+3,Texas Pacific Land Trust,-3532999827,-7200211361,II de Antofagasta,Maria Elena,18-04-1961,si,-,-,Augusto TenaGregorio RomanRaimundo Barrios
+2,Esterline Technologies Corporation,-3771621836,-7231495104,III de Atacama,Caldera,15-03-1984,si,-,solar,Antonio Luis VelazquezMarkel PizarroOtilia SambolaJuan Antonio Ortega
+2,Silicon Motion Technology Corporation,-3276764967,-7147415533,II de Antofagasta,Sierra Gorda,17-11-2010,si,-,geotermica,Saturnino ChenAmaya LirianoMustapha NaranjoArantxa Canelles
+2,Ceragon Networks Ltd,-3956394284,-6975223962,III de Atacama,Caldera,16-05-1987,si,-,mareomotriz,Sergi VarelaMicaela ErikssonDamian ValleAicha MecinasAbdelaziz Velez
+2,MiMedx Group Inc,-5155577341,-6868117893,I de Tarapaca,Pozo Almonte,22-07-1954,si,-,mareomotriz,Juan Antonio OrtegaGuadalupe LanserosCipriano BarreiroJose Rafael Sainz
+1,La Pepa,-5195141748,-7122207609,III de Atacama,Tierra Amarilla,21-07-2006,si,Oro,-,Sandra AbarrateguiRachid BarrosoBeatriz EscarraPau Sierra
+1,Jeronimo,-3177103906,-7145606195,III de Atacama,Tierra Amarilla,09-01-1976,si,Oro,-,Juan David Dos SantosLuz Marina ArdaoAntonia Maria LeachRoberto Carlos Pino
+1,Sierra Gorda,-299037532,-6920477898,II de Antofagasta,San Pedro de Atacama,16-09-1985,si,Cobre,-,Claudio DomingoLara SalonBernardino PalomoIbai Gamez
+3,Waste Management Inc,-3891178905,-7173239195,VII del Maule,Curanilahue,28-11-1997,si,-,-,Peter OlmedoMelania YudegoGonzalo NietoRamon Suarez
+1,Andes Travertine,-1909271584,-6947178711,II de Antofagasta,Tocopilla,31-10-1992,si,Marmol,-,Patricio MirallesAyoub MoyanoMiriam ZorrozuaAmador Soria
+3,Eagle Bulk Shipping Inc,-3969256421,-7314064804,IV de Coquimbo,Canela,17-11-1987,si,-,-,Norberto GalvanVicenta LascuKarim CriadoCelestina PeguerolesGumersindo Pavon
+1,SQM - Nueva Victoria,-5473005883,-7054483001,I de Tarapaca,Alto Hospicio,21-08-1993,si,Yodo,-,Ceferino AlcalaInocencia RenesMuhammad ArevaloPiedad CabauManuel Rodriguez
+2,Dupont Fabros Technology Inc,-2476562075,-7372311695,V de Valparaiso,Villa Alemana,02-04-1991,si,-,solar,Ion CuencaMihai VaqueroFelix Fuentes
+2,Brookfield Global Listed Infrastructure Income Fund,-5490481689,-7299829869,IV de Coquimbo,Vicuna,06-05-2013,si,-,geotermica,Eugenio RojasAfrica NaimEloy AparicioArantxa CanellesMiguel Angel Gutierrez
+2,Impax Laboratories Inc,-4859547852,-7378895577,VIII del Bio-Bio,Alto Biobio,04-08-2004,si,-,nuclear,Pedro Pablo CobosGuadalupe LanserosJuan LopezAngeles Maneru
+3,Everspin Technologies Inc,-3918346766,-6782215525,XV de Arica y Parinacota,Arica,28-06-1994,si,-,-,Jose Francisco VelascoPatricia BaumannBrian Castellanos
+1,Ministro Hales,-2018310356,-6991162467,II de Antofagasta,Calama,27-04-1980,si,Cobre,-,Faustino MurilloVictor Manuel PastorDavinia Linaje
+1,SQM - Yumbes,-4680526688,-7117699473,II de Antofagasta,Mejillones,11-08-1978,si,Nitratos,-,Constantino CarreteroDriss ValdesJose Joaquin Barrera
+2,Nabriva Therapeutics AG,-445237386,-7367953291,VIII del Bio-Bio,San Rosendo,02-03-1986,si,-,hidroelectrica,Marcelina CapelladesDaniel HernandezAinhoa AumenteFrancisco Antonio Ramon
+2,OraSure Technologies Inc,-2299538727,-6927296898,I de Tarapaca,Iquique,22-03-1966,si,-,hidroelectrica,Erik ZapataMaria Nieves Lalana
+1,Radomiro Tomic,-3339540661,-7061147918,II de Antofagasta,Sierra Gorda,27-10-1981,si,Cobre,-,Sebastian FerrerJuan Bautista ParedesNatividad CarabanoVasile Ordonez
+3,PrimeEnergy Corporation,-5191507329,-7082429759,III de Atacama,Freirina,05-07-1966,si,-,-,Jose Jesus ChavesMonica HoltTania GangosoIoan Gimeno
+3,TICC Capital Corp,-4665052586,-6974814838,II de Antofagasta,Mejillones,31-05-1956,si,-,-,Mikel PereiraLaila PeyroJuan Dios ClementeElena TricioCarlos Antonio Salcedo
+3,Pinnacle Financial Partners Inc,-3201134156,-6905264329,I de Tarapaca,Huara,02-11-1980,si,-,-,Manuel Jose CardenasNagore MerelasLeandro CaceresDelfina PauletJoel Contreras
+2,HCA Healthcare Inc,-4329197132,-7195914899,II de Antofagasta,Antofagasta,30-08-1965,si,-,termoelectrica,Hamza BarrioMaria Concepcion AvellanaJuan Fernando PenaMaximiliano Amaya
+3,Kopin Corporation,-5006681348,-71288365,III de Atacama,Alto del Carmen,24-12-1978,si,-,-,Maria Prado TabuyoNil CatalanLoreto UrabayenHamza Barrio
+2,Commercial Vehicle Group Inc,-3562259333,-7160991232,II de Antofagasta,Maria Elena,08-05-1991,si,-,hidroelectrica,Celso FalconLeire CrusatRuben MedinaRegina Blaj
+1,Can Can,-4983601833,-7112592996,III de Atacama,Alto del Carmen,10-04-2016,si,Oro,-,Alfonso MendezAgustina RodaoJairo VillaElisabet KausarJoseba Palma
+2,The Travelers Companies Inc,-2938267045,-7083420453,III de Atacama,Freirina,06-11-1980,si,-,solar,Juan Ignacio SimonGustavo ZamoraDebora Cerron
+3,BlackRock Municipal Target Term Trust Inc (The),-3921827739,-7102138421,II de Antofagasta,San Pedro de Atacama,31-03-1955,si,-,-,Estrella DunabeitiaClemente VelaMaria Trinidad LupPol Costa
+1,Quebrada Blanca,-5057327772,-6891799663,I de Tarapaca,Pozo Almonte,17-01-1987,si,Cobre,-,Pascual GuerraItziar Gorbea
+1,CMP - Cerro Negro Norte,-3027265127,-7139812945,III de Atacama,Freirina,26-09-1961,si,Hierro,-,Jon CasasRosa RosinoVictor Jose De MiguelSheila BatalleIago Singh
+3,Nuveen Energy MLP Total Return Fund,-5281861719,-7437026443,V de Valparaiso,Puchuncavi,16-02-1972,si,-,-,Tomas CabreraIrati PerrucaJuan Alberto Sala
+2,Global Partner Acquisition Corp,-5089461916,-7077945522,I de Tarapaca,Colchane,06-02-2009,si,-,termoelectrica,Jose Enrique ManzanoFabiola DumbravaJose Ramon CarrascoJose Pedro Huertas
+2,3M Company,-4732142188,-7289968237,Metropolitana de Santiago,El Monte,05-05-1950,si,-,solar,Ion CuencaPurificacion Rodriguez BobadaJennifer ApostuMarco De La Torre
+1,La Productora,-4592687329,-7144643519,III de Atacama,Diego de Almagro,26-12-2018,si,Cobre,-,Isabel Maria CotainaCarlos RuizVisitacion De La Prida
+1,Cerro Iman,-3991479342,-7071904433,III de Atacama,Caldera,12-08-1960,si,Hierro,-,Edgar LealAntonio Luis VelazquezRemedios Caton
+1,SQM - Maria Elena,-3072064609,-6919189683,II de Antofagasta,Ollague,08-02-1961,si,Nitratos,-,Jose Luis PerezEva Maria AuriaSerafin De La Cruz
+3,Biocept Inc,-3482049098,-7376922988,XII de Magallanes y de la Antartica Chilena,Timaukel,13-08-1994,si,-,-,Guillermo CamposPilar BedialaunetaEngracia Tolos
+2,Cummins Inc,-2909117012,-6889030305,II de Antofagasta,San Pedro de Atacama,01-05-1956,si,-,nuclear,Marcos Antonio BartolomeDiana MatanzaAna Rosa TriadoJuan Gabriel Ferrero
+3,Arista Networks Inc,-4795224885,-72625789,III de Atacama,Vallenar,24-09-1972,si,-,-,Basilio RequenaMaria Cruz MitevaInaki Blazquez
+3,ILG Inc,-4240115957,-6927629579,II de Antofagasta,San Pedro de Atacama,24-04-1983,si,-,-,Aziz GarzonSilvia Maria CamunaIbon SalgueroMaria Encarnacion Bahri
+1,Lambert,-5285135542,-7164256207,IV de Coquimbo,Andacollo,05-07-1960,si,Cobre,-,Cristian HidalgoAlfonsa RellosoJose Rafael SainzMacarena Diaz CampoIbrahim Paez
+1,Caleta El Cobre,-3586420182,-7051754931,II de Antofagasta,Calama,01-02-1984,si,Cobre,-,Jose Francisco VelascoAnabel Rodriguez PeralAngeles ManeruJose Enrique Manzano
+1,Ferton,-4748875104,-7210622211,Metropolitana de Santiago,El Monte,03-06-1955,si,Yeso,-,Ian AlcantaraMagdalena ChahlalBonifacio ArjonaSamira ArabaolazaJuan Andres Saavedra
+3,Moog Inc,-1850708785,-7002931389,III de Atacama,Huasco,28-11-1967,si,-,-,Feliciano VillegasMaria Eugenia CoradoJose Rafael Sainz
+3,LM Funding America Inc,-3742139201,-7482919835,XIV de Los Rios,Rio Bueno,14-11-1954,si,-,-,Narciso BallesterPaola MasetInocencio LlorensAlicia AriznabarretaOctavio Tapia
+3,PrivateBancorp Inc,-3402539502,-6921071103,II de Antofagasta,Sierra Gorda,05-09-1981,si,-,-,Mariona SoraJaime GuerreroEmilio Leon
+1,Coiron,-2298723402,-7314125365,XII de Magallanes y de la Antartica Chilena,Rio Verde,05-10-1985,si,Hidrocarburos,-,Isabel Maria CotainaEva SanandresSaid Maldonado
+2,Microsemi Corporation,-5065226007,-7276420235,XII de Magallanes y de la Antartica Chilena,Laguna Blanca,17-03-1989,si,-,nuclear,Viorel VivesPetra AomarJoaquim PazMaria Socorro MenoJordi Vidal
+3,Zion Oil & Gas Inc,-3475875536,-7191521087,IV de Coquimbo,Illapel,22-12-1972,si,-,-,Dumitru AznarBonifacio ArjonaAdrian Rubio
+2,Western Refining Logistics LP,-499530586,-7342275068,Metropolitana de Santiago,San Pedro,20-03-1966,si,-,hidroelectrica,Fabian SolisMaria Estrella ZuherosIbon SalgueroXabier Montoya
+3,Sierra Oncology Inc,-4285190241,-7180551464,II de Antofagasta,Antofagasta,22-08-1994,si,-,-,Marco Antonio TomasJesus Antonio HerranzIsidora FaberoJose Luis Perez
+1,Dos Amigos,-5430040972,-711931064,III de Atacama,Freirina,01-08-1973,si,Cobre,-,Salud MolloDamian ValleMaria Amparo AnguixAvelino Ojeda
+3,Abeona Therapeutics Inc,-467224442,-7081052512,II de Antofagasta,Calama,18-02-1969,si,-,-,Driss ValdesNoemi Ardoy
+3,Merus Labs International Inc,-2461575569,-7293952133,II de Antofagasta,Tocopilla,05-10-1976,si,-,-,Francisco Manuel VeraIngrid BonamusaIago SinghMaria Josefa JustesBorja Lara
+2,First Trust Multi-Asset Diversified Income Index Fund,-5429723561,-7004511056,II de Antofagasta,Tocopilla,07-04-2007,si,-,mareomotriz,Unai GalvezAlexia MerelloJuan Carlos SerranoMaite Irun
+3,Imax Corporation,-531657583,-7194698392,III de Atacama,Freirina,01-08-1968,si,-,-,Lorenza LizundiaMario GallegoFilomena El MahiCarlos Alberto Villanueva
+3,H&R Block Inc,-3042590561,-6863653997,II de Antofagasta,Taltal,11-06-1986,si,-,-,Antonio Manuel MateoLaura Maria SaladieRafaela Mitu
+3,Northrop Grumman Corporation,-366766771,-7389200318,V de Valparaiso,Concon,16-04-1951,si,-,-,Hilario AyalaLola SellersLuis Angel MataLuisa JaramagoJohn Rebollo
+3,Diana Shipping inc,-4548591239,-7096372918,XV de Arica y Parinacota,Camarones,25-02-2010,si,-,-,Kevin De La FuenteIsabel PeladoJulio PenaMaria Montserrat Liquete
+3,Spark Energy Inc,-1822174509,-6920838488,I de Tarapaca,Pozo Almonte,01-07-1987,si,-,-,Cesareo CardonaMaria Auxiliadora De SalasBenito Segura
