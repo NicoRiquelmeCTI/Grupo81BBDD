@@ -1,24 +1,39 @@
-[
-    {
-        "id": "Am6FA24F",
+[  
+    {   "id": "Am6FA24F",
         "content": "Hola socio tanto tiempo, como estas?. Te cuento que seguimos
         operando a pesar de que aprobaron un recurso de proteccion
         en nuestra contra. Nadie ha venido a fiscalizar esta mina de
         cobre haha. Espero que tengas la misma suerte con tu
         termoelectrica en Antofagasta amigo mo. Saludos!",
         "metadata": {
-            "time": "2019-04-17 05:20:37",
-            "sender": "Franke",
-            "receiver": "Anheuser-Busch Inbev SA",
+        "time": "2019-04-17 05:20:37",
+        "sender": "Franke",
+        "receiver": "Anheuser-Busch Inbev SA",
         }
     },
-    {
-        "id": "Akj9A24F",
+    {   "id": "Akj9A24F",
         "content": "Hola",
         "metadata": {
-            "time": "2019-06-18 07:20:37",
-            "sender": "Willy",
-            "receiver": "Anheuser-Busch Inbev SA",
+        "time": "2019-06-18 07:20:37",
+        "sender": "Willy",
+        "receiver": "Anheuser-Busch Inbev SA",
+        }
+    },
+    {   "id": "uwu987J2F",
+        "content": "Hola, te escribo porque estoy un poco aburrido y me gustaría conversar contigo,
+        espero que tengas un buen día",
+        "metadata": {
+        "time": "2019-06-18 07:20:37",
+        "sender": "Antonio",
+        "receiver": "Anheuser-Busch Inbev SA",
+        }
+    },
+    {   "id": "AAAH87JJ2F",
+        "content": "Hola, ya te mandé los archivos correspondientes, estamos hablando",
+        "metadata": {
+        "time": "",
+        "sender": "",
+        "receiver": "",
         }
     }
 ]
