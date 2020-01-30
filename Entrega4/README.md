@@ -1,6 +1,6 @@
-# gunicorn-flask-pipenv-sample
+# Entrega 4 grupos 58 y 81
 
-## Para correr
+## Instrucciones para correr el programa
 
 ### Windows con una sola version de python, Ubuntu 18.04+
 
@@ -27,12 +27,7 @@ pipenv install
 ```bash
 pipenv shell
 ```
-Si estas en windows 
+Correr la aplicación
 ```
-python main.py
-```
-
-Cualquier otro sistema operativo
-```
-gunicorn main:app --workers=3 --reload
+python app/main.py
 ```
